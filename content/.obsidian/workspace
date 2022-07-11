@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Grog Splices.md",
+            "file": "_index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Grog Splices.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,14 @@
   },
   "active": "e24b4ef1bac5644e",
   "lastOpenFiles": [
-    "notes/Grog Splices.md",
     "_index.md",
+    "notes/Test.md",
     "notes/Grog Splices.md",
+    "Untitled.md",
     "templates/post.md",
     "notes/images/github-actions.png",
     "notes/updating.md",
     "notes/custom Domain.md",
-    "notes/config.md",
-    "notes/CJK + Latex Support (测试).md",
-    "notes/images/obsidian-settings.png"
+    "notes/config.md"
   ]
 }
