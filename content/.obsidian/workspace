@@ -7,8 +7,11 @@
         "id": "e24b4ef1bac5644e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +88,8 @@
   },
   "active": "e24b4ef1bac5644e",
   "lastOpenFiles": [
-    "notes/Grog Splices.md",
     "_index.md",
+    "notes/Grog Splices.md",
     "templates/post.md",
     "notes/images/github-actions.png",
     "notes/updating.md",
