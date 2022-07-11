@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Philip Queen
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,16 +8,13 @@ enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/jackyzha0/SlackBlog/tree/hugo/content
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Welcome to Philip's Slackblog. Designed to share my strong opinions about slackline rigging with the world. More content coming in due time.
 page_title:
-  "🪴 Quartz 3.2"
+  "Philip's Slackline Blog"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/philipqueen
