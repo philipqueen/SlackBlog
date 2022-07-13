@@ -54,4 +54,4 @@ Before first using the grogs I had made at the Fruit Bowl for Halloween 2021, we
 ### Jake's Scale Testing
 Jake Monaghan heard about using grogs and wanted to test, but only had access to a pulley system. So he used 7/64" dyneema in hopes of being able to scale up the test results to 5mm dyneema. His findings are below. 
 
-[Jakes Test Results](/notes/images/JakesGrogTest.jpeg)
+![Jakes Test Results](/notes/images/JakesGrogTest.jpeg)
