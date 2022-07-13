@@ -13,12 +13,12 @@ I believe grog splices are the next step forward in highline split connections. 
 ## What is a Grog?
 A grog is a method of splicing a continuous loop of braided material that makes use of a brummel splice, but buries each tail back in the working strand on the side it came from. Here is the [animated knots page for the grog sling](https://www.animatedknots.com/grog-sling-knot), which has good pictures and some discussion of grogs (some of the discussion does not match the testing found below, or the first hand experience I have of using grogs while slacklining).
 
-Our particular interest in grogs is as a connection method in highline splits, as a replacement for soft shackles and quicklinks. If you're just interested in how they can be an improvement over other connection options, skip to [Benefits of the Grog](#Benefits of the Grog). But if you'd like a deeper dive into how and why the idea for using them came about, keep reading here. 
+Our particular interest in grogs is as a connection method in highline splits, as a replacement for soft shackles and quicklinks. If you're just interested in how they can be an improvement over other connection options, skip to *Benefits of the Grog* below. But if you'd like a deeper dive into how and why the idea for using them came about, keep reading here. 
 
 ### Origins
-To my knowledge, grogs were first used in slacklining as the manufacturer recommended way of re-splicing the Souz Snatch, which was originally shipped with a weak splice that had a tendency fully unraveling during normal use. 
+To my knowledge, grogs were first used in slacklining as the manufacturer recommended way of re-splicing the Souz Snatch, which was originally shipped with a weak splice that had a tendency of fully unraveling during normal use. 
 
-But the idea of using them in split connections first appeared in discussions between me and Owen Roll. I had been making a lot of variations of continuous loops in dyneema, and showed Owen some of the variations I had tried splicing. I had deemed them useless for splits because they don't open like a soft shackle, but Owen convinced me of the benefits. Fairly quickly we seemed to settle on the grog as being the best continuous loop method for the job. Sirio Zao made a [post on SlackChat](https://www.facebook.com/groups/slackchat/posts/5048334728573697/) asking about use of a grog in splits in combination with a soft shackle before Owen and I shared our idea publicly, and no one seemed to have used them previously or be convinced to try them.
+But the idea of using them in split connections first appeared in discussions between me and Owen Roll. I had been making a lot of variations of continuous loops in dyneema, and showed Owen some of the variations I had tried splicing. I had deemed them useless for splits because they don't open like a soft shackle, but Owen convinced me of the benefits. Fairly quickly we seemed to settle on the grog as being the best continuous loop method for the job. Sirio Zao made a [post on SlackChat](https://www.facebook.com/groups/slackchat/posts/5048334728573697/) asking about use of a grog in splits in combination with a soft shackle before Owen and I shared our idea publicly, and no one seemed to have used them previously or been convinced to try them.
 
 The first use of them in a split was by Jerry Miszewski on a 200m permarig in the fall of 2021, after I brought the idea to him and we break tested some I had made. I rigged lines with them at the Halloween Fruitbowl Gathering and GGBY, also in the fall of 2021, along with some other rigs. Jerry's line had 5mm grogs with 6" buries and lock stitching on one side. My lines used 5mm grogs with 3-4" buries and no lock stitching, and even rigged for days at a time at a festival saw no problems with the buries coming undone. The grogs were exceptionally easy to walk over, easy to splice and unsplice, and apparently safe enough. But I waited until now to share the grog in order to make sure I tested them fully before advocating them to the general public. 
 
@@ -30,7 +30,7 @@ Grog splices are semi-permanent, but not permanent. They can be left in place fo
 Also, if you own a long rig, it is easy to pre-splice your segments in a smart way to give you optimal flexibility across different webbing lengths. For example, if you own six 50m highline segments, you can connect three 50m segments in one bag, two 50m segments in another bag, and leave the final 50m segment in it's own bag. For any line up to 150m, you have a bag already packed with no need to make any connections. From 150-250m, you have to combine 2 bags with one split either at home or on site. For lines from 250-300m, you have to make 2 connections at home or on site. In all of these cases you have full flexibility, with minimal need to make connections for a specific rig. You also maintain the safety benefits of a split rig in every case, without having the hassle of making up to 5 connections while packing for a rig.
 
 ### Continuous Loops in Dyneema
-Why use a grog instead of another method of making a continuous loop? You can read all about some different ways of making continuous loops [at the sailing website L-36](https://l-36.com/loop.php), but even this isn't an exhaustive source. Like soft shackles, there are many ways of accomplishing the same thing with different strengths and trade offs. The primary reason for choosing a grog for split connections is having a secure splice (thanks to the brummel) without having to lock stitch. Lock stitching is relatively more difficult and time consuming than splicing, and slackliners might either be put off by the annoyance or be tempted to skip the lock stitch (risking full failure of the splice). Plus, lock stitching would require the loops be much more permanent than semi-permanent.
+Why use a grog instead of another method of making a continuous loop? You can read all about some different ways of making continuous loops [at the sailing website L-36](https://l-36.com/loop.php), but even this isn't an exhaustive source. Like soft shackles, there are many ways of accomplishing the same thing with different strengths and trade offs. The primary reason for choosing a grog for split connections is having a secure splice (thanks to the brummel) without having to lock stitch. Lock stitching is relatively more difficult and time consuming than splicing, and slackliners might either be put off by the annoyance or be tempted to skip the lock stitch (risking full failure of the splice). Plus, lock stitching would require the loops be much more permanent than semi-permanent. I have not been able to find any information of the grog alternative mentioned at Animated Knots called the "Brion Toss re-braided Brummel technique," so I can't compare that here.
 
 ## Benefits of the Grog
 1. **Size:** Grogs are small. Two 5mm grogs at a split is roughly the size of one 5mm soft shackle, *without the button knot.* This means they add minimal bulk, and are extremely easy for leash rings to pass. 
@@ -60,7 +60,7 @@ Below are written instructions on how to make a grog splice. Pictures of each st
 **Lengths of dyneema needed for different bury lengths in 5mm grogs:**
 
 | Bury Size | Inches of Dyneema Needed | 
-| --- | ---- |
+| :-: | :-: |
 | 4" | 20 |
 | 5" | 25 | 
 | 6" | 29 |
@@ -83,7 +83,7 @@ This gives us a three sigma MBS of 24.5 kN. For those who don't know, the three 
 It is important to note the mean across the 15 samples is quite higher than the three sigma MBS at 31.0 kN. The reason the MBS is so low is because of the high variance in the data. The weakest grog in the sample set was 27.3 kN, the strongest was 35.9 kN (both had 4" buries). This relatively large difference between weakest and strongest means a large standard deviation, and thus a more conservative three sigma MBS. 
 
 | Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 4 - 6 | 24.5 | 31.0 | 27.3 | 
 
 ### Are Longer Buries Better?
@@ -92,7 +92,7 @@ I advocate that **4 inches if the minimum bury length for a 5mm grog splice.** B
 Below are the values for just 6" grogs, for people who would rather use a longer bury. Note that the mean breaking strength is the same, but the three sigma MBS and lowest tested value are much higher.
 
 | Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 6 | 29.9 | 31.0 | 30.6 | 
 
 ### Smaller Bury Grogs
@@ -101,14 +101,14 @@ To show that **4" in the minimum bury length,** here is the testing we did with 
 The 3" buries all broke in the dyneema, but at notably lower values. Using 4" buries gives higher strength, and helps ensure that slight errors in splicing don't lead to the loop coming undone. 
 
 | Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 3 | 22.0 | 26.7 | 25.5 | 
 
 ### Grog Inside or Outside?
 Grogs can be installed one of two ways: with the brummel splice facing either inside, towards the center of the loop, or outside, away from the center of the loop. Grogs are made in the "outside" configuration, and can simply be rolled half a rotation to be used in the "inside" configuration. We tested 3 4" grogs in both configurations, both for completeness, and because it was suggested (by Jake Monaghan) that the buries may be less likely to work their way out when configured inside. Practical testing hasn't showed any problem with buries working their way out, even on a permarig left for 8 months (one bury was lock stitched but the other was not - neither showed any signs of movement), so security of the buried tails doesn't seem to be an issue.
 
 | Bury Size (in) | Grog Inside or Outside | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 4 | Outside | 31.6 | 27.3 | 
 | 4 | Inside | 30.6 | 29.0 | 
 
@@ -120,7 +120,7 @@ We also tested a few used grogs. We tested one each of a 3" and 4" bury that I u
 The one 3" bury tested fairly low at 20.8 kN. The 4" bury used in the same split broke at 27.8 kN, which is within the normal range for new 4" buries. The two 6" buries broke at 26.4 and 34.2 kN, which is again a high variance, but shows that grogs handle UV well and maintain their safety when left up for 8 months or less. The 6" buries had been respliced only once to redo them for testing. 
 
 | Bury Size (in) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 3-6 | 27.3 | 20.8 | 
 
 ### Further testing
