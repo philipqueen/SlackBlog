@@ -6,6 +6,10 @@ tags:
 - split-connections
 - breaktests
 ---
+# Complete Grog Breaktests 
+
+### Main Test 
+These are the unedited values for the 20 breaktests of grog splices completed in June 2022. The tests were done with Jerry Miszewski, owner of Balance Community Slacklines, in the Balance Community shop. All splices were made and installed in the machine by me. 
 
 | Bury Size | Sample Number | Splice Orientation | Break Strength in kN |
 | --- | --- | --- | ----------- |
@@ -29,3 +33,5 @@ tags:
 | 4" | 7 | Grog up | 27.8 |
 | 6" | 4 | Grog up | 26.4 |
 | 6" | 5 | Grog up | 34.2 |
+
+### Preliminary Tests
