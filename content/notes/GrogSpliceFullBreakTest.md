@@ -1,25 +1,11 @@
 ---
-title: "Grog Splices"
+title: "Grog Splice Full Break Tests"
 
 tags:
 - grog-splices
 - split-connections
 - breaktests
 ---
-
-# Grog Splices
-
-## What is a Grog?
-
-### Semi-Permanent Split Connections
-### Continuous Loops in Dyneema
-
-## Benefits of the Grog
-
-## How to make a Grog
-
-## Breaktests
-Grog Splice
 
 | Bury Size | Sample Number | Splice Orientation | Break Strength in kN |
 | --- | --- | --- | ----------- |
@@ -43,7 +29,3 @@ Grog Splice
 | 4" | 7 | Grog up | 27.8 |
 | 6" | 4 | Grog up | 26.4 |
 | 6" | 5 | Grog up | 34.2 |
-
-
-
-## Suggested Uses
