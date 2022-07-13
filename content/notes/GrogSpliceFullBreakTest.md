@@ -11,7 +11,7 @@ tags:
 ### Main Test 
 These are the unedited values for the 20 breaktests of grog splices completed in June 2022. The tests were done with Jerry Miszewski, owner of Balance Community Slacklines, in the Balance Community shop. All splices were made and installed in the machine by me. 
 
-| Bury Size | Sample Number | Splice Orientation | Break Strength in kN |
+| Bury Size | Sample Number | Splice Orientation | Breaking Strength (kN) |
 | --- | --- | --- | ----------- |
 | 4" | 1 | Grog up | 31.8 |
 | 4" | 2 | Grog up | 27.3 |
@@ -19,7 +19,7 @@ These are the unedited values for the 20 breaktests of grog splices completed in
 | 4" | 4 | Grog down | 30.6 |
 | 4" | 5 | Grog down | 29.0 |
 | 4" | 6 | Grog down | 32.1 |
-| 5" | 1 | Grog down | 27.2 |
+| 5"** | 1 | Grog down | 27.2 |
 | 5" | 2 | Grog down | 29.6 |
 | 5" | 3 | Grog down | 32.2 |
 | 3" | 1 | Grog down | 25.5 |
@@ -33,5 +33,7 @@ These are the unedited values for the 20 breaktests of grog splices completed in
 | 4" | 7 | Grog up | 27.8 |
 | 6" | 4 | Grog up | 26.4 |
 | 6" | 5 | Grog up | 34.2 |
+
+The 5" grog with asterisks on the side got caught in the threads of the shackle pin and tore open. After that point we switched from attaching grogs at the pin to attaching them at the bow. 
 
 ### Preliminary Tests
