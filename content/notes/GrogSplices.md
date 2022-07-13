@@ -10,6 +10,8 @@ tags:
 # Grog Splices
 I believe grog splices are the next step forward in highline split connections. My personal experience with them has been fantastic, and the consensus among experienced highliners who've walked over them is that they are the easiest connections to pass they've tried. Now, with full testing, I feel prepared to release this new method to the public. They are weird, and might challenge some existing notions about split connections, but their benefits are worth a shift in mindset. So what is a grog, how do you make one, how strong are they, and where should I use them? Keep reading to learn all there is to know about grog splices.
 
+![Grog split used in a rig](notes/images/grogsplit1.jpeg)
+
 ## What is a Grog?
 A grog is a method of splicing a continuous loop of braided material that makes use of a brummel splice, but buries each tail back in the working strand on the side it came from. Here is the [animated knots page for the grog sling](https://www.animatedknots.com/grog-sling-knot), which has good pictures and some discussion of grogs (some of the discussion does not match the testing found below, or the first hand experience I have of using grogs while slacklining).
 
@@ -33,6 +35,9 @@ Also, if you own a long rig, it is easy to pre-splice your segments in a smart w
 Why use a grog instead of another method of making a continuous loop? You can read all about some different ways of making continuous loops [at the sailing website L-36](https://l-36.com/loop.php), but even this isn't an exhaustive source. Like soft shackles, there are many ways of accomplishing the same thing with different strengths and trade offs. The primary reason for choosing a grog for split connections is having a secure splice (thanks to the brummel) without having to lock stitch. Lock stitching is relatively more difficult and time consuming than splicing, and slackliners might either be put off by the annoyance or be tempted to skip the lock stitch (risking full failure of the splice). Plus, lock stitching would require the loops be much more permanent than semi-permanent. I have not been able to find any information of the grog alternative mentioned at Animated Knots called the "Brion Toss re-braided Brummel technique," so I can't compare that here.
 
 ## Benefits of the Grog
+
+![Sleekness of grog](/notes/images/grogsplit2.jpeg) 
+
 1. **Size:** Grogs are small. Two 5mm grogs at a split is roughly the size of one 5mm soft shackle, *without the button knot.* This means they add minimal bulk, and are extremely easy for leash rings to pass. 
 2. **Weight:** One 5mm grog splice with 4" buries weighs about 7.6g. A small 5mm soft shackle weights about 15.9g. An 8mm camp stainless steel quickink weights 76g. This means in addition to being about the size of one soft shackle without the button knot, two grogs also weigh less than one soft shackle. Two grogs also weigh one fifth of a single 8mm quicklink. While walking, this translates to less wobble and shake from the splits and a more continuous feel across the line. It is also less weight in the bag. 
 3. **Security:** Because they are spliced shut, as long as the tails remain buried, grogs cannot open. Unlike soft shackles, they do not need to be taped shut. Unlike quicklinks, they do not need to be torqued with a wrench. Once spliced, they only need a simple visual inspection that the tails are buried before being sent out.
@@ -75,7 +80,7 @@ These lengths should leave approximately one inch between the buried tails. This
 Disclaimer: the breaktests were performed at the Balance Community workshop using their breaktest machine, and with the assistance of Balance Community founder Jerry Miszewski. 
 See the full breaktests at [the complete breaktest page](notes/GrogSpliceFullBreakTest) (some additional testing data is also included there).
 
-### Determining an MBS
+### Determining MBS
 To determine an MBS for the grogs, I've decided to run the MBS calculations on all of the tests with bury lengths 4" or greater. This includes 15 break tests. I've excluded the used grogs, as well as one test where a 5" bury grog got caught in the screw of the shackle pin and tore apart at 27.2 kN. 
 
 This gives us a three sigma MBS of 24.5 kN. For those who don't know, the three sigma MBS is calculated by subtracting three standard deviations of the data from the mean, and in theory represents the value that ~99.7% of all samples will break at or above. This is the strict standard that climbing and slackline gear is typically held to.
@@ -128,6 +133,8 @@ Some more testing data is shown on the complete breaktest page. Due to the high 
 
 ## How and Where to Use Grogs
 Knowing their benefits and their strength, how and where should you use grogs in your split connections? While an individual 5mm grog is significantly weaker than either a 5mm soft shackle or 8mm quicklink, two 5mm grogs are roughly the same strength as both while also being smaller and lighter. Therefore, my guideline would be **replace any single soft shackle or quicklink with two grogs.** For example, on a Y2K or Dura-La-Vida style connection where offset loops are generally connected with 1 quicklink or soft shackle each, use two grogs in place of each single connector. By using grogs in these cases, you gain a significant increase in redundancy while maintaining strength, and decreasing size and weight.
+
+![Example of through-all-four connection with grogs](/notes/images/grogsplit3.jpeg)
 
 However, there are also places where we use two connectors for redundancy, even though the strength of one connector is plenty. An example of this is when we put two soft shackles through both main and backup loops, with the backup loops tucked inside the main loops (through-all-four style connection). Here, two grogs sharing load should be roughly 50 kN strong, which is stronger than almost any webbing. And because there are two separate grogs, they are still redundant. For this reason, you can **replace two soft shackles that connect the same pieces of webbing with two grogs.** This gives you a connection that is plenty strong enough, and half the size and weight. 
 
