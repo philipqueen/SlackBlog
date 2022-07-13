@@ -8,7 +8,7 @@ tags:
 ---
 
 # Grog Splices
-I believe grog splices are the next step forward in highline split connections. My personal experience with them has been fantastic, and the consensus among experienced highliners who've walked over them is that they are the easiest connections to pass they've tried. Now, with full testing, I feel prepared to release this new method to the public. They are weird, and might challenge some existing notions about split connections, but their benefits are worth a shift in mindset. So what is a grog, how do you make one, how strong are they, and where should I use them? Keep reading to learn all there is to know about grog splices.
+Grog splices are the biggest innovation in highline split connections since the invention of highline split connections. Despite being extremely new, many highliners already consider them *the way* to do split highlines. Now, with full testing, I feel prepared to release this new method to the public. They are weird, and might challenge some existing notions about split connections, but their benefits are worth a shift in mindset. So what is a grog, how do you make one, how strong are they, and where should I use them? Keep reading to learn all there is to know about grog splices.
 
 ![Grog split used in a rig](notes/images/grogsplit1.jpeg)
 
