@@ -15,9 +15,9 @@ Semi-permanent connections are weird based on the current paradigm of soft shack
 ![Grog split used in a rig](notes/images/grogsplit1.jpeg)
 
 ## What is a Grog?
-A grog is a method of splicing a continuous loop of braided material that makes use of a brummel splice, but buries each tail back in the working strand on the side it came from. Here is the [animated knots page for the grog sling](https://www.animatedknots.com/grog-sling-knot), which has good pictures and some discussion of grogs (some of the discussion does not match the testing found below, or the first hand experience I have of using grogs while slacklining).
+A grog is a method of splicing a continuous loop of braided material that makes use of a brummel splice, but buries each tail back into the working strand on the side it came from. Here is the [animated knots page for the grog sling](https://www.animatedknots.com/grog-sling-knot), which has good pictures and some discussion of grogs (some of the discussion does not match the testing found below, or the first hand experience I have of using grogs while slacklining).
 
-Our particular interest in grogs is as a connection method in highline splits, as a replacement for soft shackles and quicklinks. If you're just interested in how they can be an improvement over other connection options, skip to *Benefits of the Grog* below. But if you'd like a deeper dive into how and why the idea for using them came about, keep reading here. 
+Our particular interest in grogs is as a connection method in highline splits, replacing soft shackles and quicklinks. If you're just interested in how they can be an improvement over other connection options, skip to *Benefits of the Grog* below. But if you'd like a deeper dive into how and why the idea for using them came about, keep reading here. 
 
 ### Origins
 To my knowledge, grogs were first used in slacklining as the manufacturer recommended way of re-splicing the Souz Snatch, which was originally shipped with a weak splice that had a tendency of fully unraveling during normal use. 
@@ -34,7 +34,7 @@ Grog splices are semi-permanent, but not permanent. They can be left in place fo
 Also, if you own a long rig, it is easy to pre-splice your segments in a smart way to give you optimal flexibility across different webbing lengths. For example, if you own six 50m highline segments, you can connect three 50m segments in one bag, two 50m segments in another bag, and leave the final 50m segment in it's own bag. For any line up to 150m, you have a bag already packed with no need to make any connections. From 150-250m, you have to combine 2 bags with one split either at home or on site. For lines from 250-300m, you have to make 2 connections at home or on site. In all of these cases you have full flexibility, with minimal need to make connections for a specific rig. You also maintain the safety benefits of a split rig in every case, without having the hassle of making up to 5 connections while packing for a rig.
 
 ### Continuous Loops in Dyneema
-Why use a grog instead of another method of making a continuous loop? You can read all about some different ways of making continuous loops [at the sailing website L-36](https://l-36.com/loop.php), but even this isn't an exhaustive source. Like soft shackles, there are many ways of accomplishing the same thing with different strengths and trade offs. The primary reason for choosing a grog for split connections is having a secure splice (thanks to the brummel) without having to lock stitch. Lock stitching is relatively more difficult and time consuming than splicing, and slackliners might either be put off by the annoyance or be tempted to skip the lock stitch (risking full failure of the splice). Plus, lock stitching would require the loops be much more permanent than semi-permanent. I have not been able to find any information of the grog alternative mentioned at Animated Knots called the "Brion Toss re-braided Brummel technique," so I can't compare that here.
+Why use a grog instead of another method of making a continuous loop? You can read all about some different ways of making continuous loops [at the sailing website L-36](https://l-36.com/loop.php), but even this isn't an exhaustive source. Like soft shackles, there are many ways of accomplishing the same thing with different strengths and trade offs. The primary reason for choosing a grog for split connections is having a secure splice (thanks to the brummel) without having to lock stitch. Lock stitching is relatively more difficult and time consuming than splicing, and slackliners might either be put off by the annoyance or be tempted to skip the lock stitch (risking full failure of the splice). Plus, lock stitching would require the loops to be more permanent than semi-permanent. I have not been able to find any information of the grog alternative mentioned at Animated Knots called the "Brion Toss re-braided Brummel technique," so I can't compare that here.
 
 ## Benefits of the Grog
 
@@ -57,8 +57,8 @@ Below are written instructions on how to make a grog splice. Pictures of each st
 	- Make a hole in each end of the dyneema at the distance you've marked (bury length + extra for brummel)
 3. Make brummel
 	- Make sure the holes you made in the last step split the dyneema evenly: there should be 6 strands of dyneema on each side of the hole
-	- Pass strand A through the hole in strand B, until the hole in strand A has gone through the hole in stand B
-	- Then pass stand B through the hole in strand A
+	- Pass strand A through the hole in strand B, until the hole in strand A has gone through the hole in strand B
+	- Then pass strand B through the hole in strand A
 	- Pull the tail of both strands to cinch the brummel
 4. Bury the tails
 	- Make sure each tail has at least your bury length coming out of the brummel
@@ -66,11 +66,11 @@ Below are written instructions on how to make a grog splice. Pictures of each st
 
 **Lengths of dyneema needed for different bury lengths in 5mm grogs:**
 
-| Bury Size | Inches of Dyneema Needed | 
-| :-: | :-: |
-| 4" | 20 |
-| 5" | 25 | 
-| 6" | 29 |
+| Bury Size Inches | Inches of Dyneema Needed | Bury Size mm | mm of Dyneema Needed |  
+| :-: | :-: | :-: | :-: |
+| 4" | 20 | 102 | 508 |
+| 5" | 25 | 127 | 635 |
+| 6" | 29 | 152 | 737 |
 
 These lengths should leave approximately one inch between the buried tails. This makes it significantly easier to splice, especially in sewn loops, and also avoids making a much longer grog than necessary.
 
@@ -89,7 +89,7 @@ To determine an MBS for the grogs, I've decided to run the MBS calculations on a
 
 This gives us a three sigma MBS of 24.5 kN. For those who don't know, the three sigma MBS is calculated by subtracting three standard deviations of the data from the mean, and in theory represents the value that ~99.7% of all samples will break at or above. This is the strict standard that climbing and slackline gear is typically held to.
 
-It is important to note the mean across the 15 samples is quite higher than the three sigma MBS at 31.0 kN. The reason the MBS is so low is because of the high variance in the data. The weakest grog in the sample set was 27.3 kN, the strongest was 35.9 kN (both had 4" buries). This relatively large difference between weakest and strongest means a large standard deviation, and thus a more conservative three sigma MBS. 
+It is important to note the mean across the 15 samples is quite higher than the three sigma MBS at 31.0 kN. The reason the MBS is so low is because of the high variance in the data. The weakest grog in the sample set was 27.3 kN, the strongest was 35.9 kN (both had 4" buries). This relatively large difference between weakest and strongest means a large standard deviation, and thus a more conservative three sigma MBS in relation to the mean. 
 
 | Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
 | :-: | :-: | :-: | :-: |
@@ -138,7 +138,7 @@ Some more testing data is shown on the complete breaktest page. Due to the high 
 Further testing is also needed with both larger and smaller diameter dyneema. 6mm grogs could be a great way of adding strength without a significant bulk increase for people who desire more strength from each individual sling. But the bury lengths for these tests do not apply, and similar tests will have to be repeated to find the sufficient bury length for full strength 6mm grogs. Similarly, some people will want to try 4mm double wrapped grogs as they have 4mm double wrapped soft shackles. More testing is required to see how the splices react to being double wrapped, and how sewn loops respond when loaded with such small diameters. In general, choice of diameter in grogs is more flexible than in soft shackles, since there is no button knot to add or subtract bulk. However, bury lengths and strengths will need to be determined for whatever diameter is being used - so far only 5mm grogs can be advocated for.
 
 ## How and Where to Use Grogs
-Knowing their benefits and their strength, how and where should you use grogs in your split connections? While an individual 5mm grog is significantly weaker than either a 5mm soft shackle or 8mm quicklink, two 5mm grogs are roughly the same strength as both while also being smaller and lighter. Therefore, my guideline would be **replace any single soft shackle or quicklink with two grogs.** For example, on a Y2K or Dura-La-Vida style connection where offset loops are generally connected with 1 quicklink or soft shackle each, use two grogs in place of each single connector. By using grogs in these cases, you gain a significant increase in redundancy while maintaining strength, and decreasing size and weight.
+Knowing their benefits and their breaking strength, how and where should you use grogs in your split connections? While an individual 5mm grog is significantly weaker than either a 5mm soft shackle or 8mm quicklink, two 5mm grogs are roughly the same strength as both while also being smaller and lighter. Therefore, my guideline would be **replace any single soft shackle or quicklink with two grogs.** For example, on a Y2K or Dura-La-Vida style connection where offset loops are generally connected with 1 quicklink or soft shackle each, use two grogs in place of each single connector. By using grogs in these cases, you gain a significant increase in redundancy while maintaining strength, and decreasing size and weight.
 
 ![Example of through-all-four connection with grogs](/notes/images/grogsplit3.jpeg)
 
