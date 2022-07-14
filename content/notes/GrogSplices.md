@@ -8,7 +8,9 @@ tags:
 ---
 
 # Grog Splices
-Grog splices are the biggest innovation in highline split connections since the invention of highline split connections. Despite being extremely new, many highliners already consider them *the way* to do split highlines. Now, with full testing, I feel prepared to release this new method to the public. They are weird, and might challenge some existing notions about split connections, but their benefits are worth a shift in mindset. So what is a grog, how do you make one, how strong are they, and where should I use them? Keep reading to learn all there is to know about grog splices.
+Grog splices are a new method of connecting split highlines, but have already gained fans for being the lowest volume split connector. They offer numerous advantages over existing highlines split connections, and are the first connector to facilitate semi-permanent connections. This method has been in testing for a year, and this article aims to be exhaustive with everything currently known about grogs and split highlines. 
+
+Semi-permanent connections are weird based on the current paradigm of soft shackle and quicklink connections. They might challenge some existing notions about highline splits, but their benefits are worth a shift in mindset. So what is a grog, how do you make one, how strong are they, and where should I use them? Keep reading to learn all there is to know about grog splices.
 
 ![Grog split used in a rig](notes/images/grogsplit1.jpeg)
 
@@ -72,13 +74,15 @@ Below are written instructions on how to make a grog splice. Pictures of each st
 
 These lengths should leave approximately one inch between the buried tails. This makes it significantly easier to splice, especially in sewn loops, and also avoids making a much longer grog than necessary.
 
-**Bury length is key:** Make sure your bury length is **at least 4 inches** when measured from the ends of the brummel. This is the minimum size needed to get reliable strength. Buries that are far too short (less than 3 inches) will slip out well before th brummel breaks, opening the sling. 
+**Bury length is key:** Make sure your bury length is **at least 4 inches** when measured from the ends of the brummel. This is the minimum size needed to get reliable strength. Buries that are far too short (less than 3 inches) will slip out well before the brummel breaks, opening the sling. 
 
 **Are tapered tails necessary?:** No tapers necessary, grogs tend to break at the brummel, not at the end of the buries. When they do break at the end of the buries, it's not any weaker than other tests, so adding tapers wouldn't add to their strength. Just cut your dyneema ends at a 45 degree angle. 
 
 ## Breaktests
 Disclaimer: the breaktests were performed at the Balance Community workshop using their breaktest machine, and with the assistance of Balance Community founder Jerry Miszewski. 
 See the full breaktests at [the complete breaktest page](notes/GrogSpliceFullBreakTest) (some additional testing data is also included there).
+
+![26 Broken Grog Splices](notes/images/GrogBreaks.jpg)
 
 ### Determining MBS
 To determine an MBS for the grogs, I've decided to run the MBS calculations on all of the tests with bury lengths 4" or greater. This includes 15 break tests. I've excluded the used grogs, as well as one test where a 5" bury grog got caught in the screw of the shackle pin and tore apart at 27.2 kN. 
@@ -101,7 +105,7 @@ Below are the values for just 6" grogs, for people who would rather use a longer
 | 6 | 29.9 | 31.0 | 30.6 | 
 
 ### Smaller Bury Grogs
-To show that **4" in the minimum bury length,** here is the testing we did with smaller bury length grogs. The one 2" bury grog we tested came undone at 21.4 kN. The tails slipped out of their buries and the brummel rolled open, so the loop came undone beofre the dyneema broke. This is the only test where this happened, and we didn't see a need to test more 2" buries.
+To show that **4" in the minimum bury length,** here is the testing we did with smaller bury length grogs. The one 2" bury grog we tested came undone at 21.4 kN. The tails slipped out of their buries and the brummel rolled open, so the loop came undone before the dyneema broke. This is the only test where this happened, and we didn't see a need to test more 2" buries.
 
 The 3" buries all broke in the dyneema, but at notably lower values. Using 4" buries gives higher strength, and helps ensure that slight errors in splicing don't lead to the loop coming undone. 
 
@@ -130,6 +134,8 @@ The one 3" bury tested fairly low at 20.8 kN. The 4" bury used in the same split
 
 ### Further testing
 Some more testing data is shown on the complete breaktest page. Due to the high variances of grogs, more testing would be beneficial to understand the range of values we could expect. It would also be beneficial to test how much grogs weaken sewn loops compared to soft shackles and quicklinks. For now, it is probably best to continue using soft thimbles with grogs as you would with soft shackles.
+
+Further testing is also needed with both larger and smaller diameter dyneema. 6mm grogs could be a great way of adding strength without a significant bulk increase for people who desire more strength from each individual sling. But the bury lengths for these tests do not apply, and similar tests will have to be repeated to find the sufficient bury length for full strength 6mm grogs. Similarly, some people will want to try 4mm double wrapped grogs as they have 4mm double wrapped soft shackles. More testing is required to see how the splices react to being double wrapped, and how sewn loops respond when loaded with such small diameters. In general, choice of diameter in grogs is more flexible than in soft shackles, since there is no button knot to add or subtract bulk. However, bury lengths and strengths will need to be determined for whatever diameter is being used - so far only 5mm grogs can be advocated for.
 
 ## How and Where to Use Grogs
 Knowing their benefits and their strength, how and where should you use grogs in your split connections? While an individual 5mm grog is significantly weaker than either a 5mm soft shackle or 8mm quicklink, two 5mm grogs are roughly the same strength as both while also being smaller and lighter. Therefore, my guideline would be **replace any single soft shackle or quicklink with two grogs.** For example, on a Y2K or Dura-La-Vida style connection where offset loops are generally connected with 1 quicklink or soft shackle each, use two grogs in place of each single connector. By using grogs in these cases, you gain a significant increase in redundancy while maintaining strength, and decreasing size and weight.
