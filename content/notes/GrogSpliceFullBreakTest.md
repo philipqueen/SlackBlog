@@ -9,7 +9,7 @@ tags:
 # Complete Grog Breaktests 
 
 ## Main Test 
-These are the unedited values for the 20 breaktests of grog splices completed in June 2022. The tests were done with Jerry Miszewski, owner of Balance Community Slacklines, in the Balance Community shop. All splices were made and installed in the machine by me. 
+These are the unedited values for the 20 breaktests of grog splices completed in June 2022. The tests were done with Jerry Miszewski, owner of Balance Community Slacklines, in the Balance Community shop. All splices were made and installed in the machine by me. All tests were made on Amsteel Blue, purchased by me in 2021, except for the silver Amsteel provided by Jerry (used in the 6" used tests, and the one pictured in the preliminary testing section) and blue Amsteel purchased by me in 2020 (used in the other two preliminary tests).
 
 | Bury Size | Sample Number | Splice Orientation | Breaking Strength (kN) |
 | :-: | :-: | :-: | :-: |
@@ -29,10 +29,12 @@ These are the unedited values for the 20 breaktests of grog splices completed in
 | 6" | 1 | Grog up | 30.6 |
 | 6" | 2 | Grog up | 31.3 |
 | 6" | 3 | Grog up | 31.1 |
-| 3" | 4 | Grog up | 20.8 |
-| 4" | 7 | Grog up | 27.8 |
-| 6" | 4 | Grog up | 26.4 |
-| 6" | 5 | Grog up | 34.2 |
+| 3"* | 4 | Grog up | 20.8 |
+| 4"* | 7 | Grog up | 27.8 |
+| 6"* | 4 | Grog up | 26.4 |
+| 6"* | 5 | Grog up | 34.2 |
+
+The final four entries with a single asterisk were all used. The extent of use is described more in the [main article.](notes/GrogSplices)
 
 The 5" grog with asterisks on the side got caught in the threads of the shackle pin and tore open. After that point we switched from attaching grogs at the pin to attaching them at the bow. 
 
@@ -66,3 +68,9 @@ Here is a fully unwoven tail from burying only one tail:
 Jake Monaghan heard about using grogs and wanted to test, but only had access to a pulley system. So he used 7/64" dyneema in hopes of being able to scale up the test results to 5mm dyneema. His findings are below. 
 
 ![Jakes Test Results](/notes/images/JakesGrogTest.jpeg)
+
+
+### Edits
+I will be trying to keep this page up to date with feedback and new information, and will keep track of edits as I make them here.
+1. Specified "Amsteel Blue" as the dyneema typed used in breaktests, and the source of the different dyneema used (7/18/22).
+2. Specified which tests in the main table were used grogs (7/18/22). 

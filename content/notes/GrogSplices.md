@@ -80,7 +80,7 @@ These lengths should leave approximately one inch between the buried tails. This
 
 ## Breaktests
 Disclaimer: the breaktests were performed at the Balance Community workshop using their breaktest machine, and with the assistance of Balance Community founder Jerry Miszewski. 
-See the full breaktests at [the complete breaktest page](notes/GrogSpliceFullBreakTest) (some additional testing data is also included there).
+See the full breaktests at [the complete breaktest page](notes/GrogSpliceFullBreakTest) (some additional testing data is also included there). All tests were performed on Amsteel Blue.
 
 ![26 Broken Grog Splices](notes/images/GrogBreaks.jpg)
 
@@ -150,6 +150,16 @@ In general, any split connection can be done with two grogs, as long as there is
 Grog splices offer significant advantages over other connectors used in split highlines. They are smaller, lighter, and are significantly better to walk on and past than other connectors. When used in pairs, they maintain all of these advantages while also matching strength and adding redundancy. They are easily adapted to the most common split styles (4 simple loops, Y2K, and DLV) and can offer some advantage over the current standard in every case. They are relatively quick to install (about 10 minutes to splice two grogs) either at home or in the field, and are even quicker to remove (about 1 minute to remove two loaded grogs). If you're not convinced, try walking a line with them.
 
 I've tried to make this an exhaustive list of everything we know about grogs, but if you have additional questions reach out and I will try to answer them. 
+
+### Grog Links
+Below is a list of the other articles I've made regarding grogs, that I will try to keep updated as I go.
+1.  [Full information on breaktesting the grogs](notes/GrogSpliceFullBreakTest)
+2.  [Video of field splicing grogs, with written info guide](notes/SplicingGrogsOnSite)
+
+### Edits
+I will be trying to keep this page up to date with feedback and new information, and will keep track of edits as I make them here.
+1. Specified "Amsteel Blue" as the dyneema typed used in breaktests (7/18/22).
+2. Added links section, including like to post on field splicing grogs (7/18/22).
 
 ### Disclaimer
 While I have done significant testing of grog splices, and have used them on numerous high traffic rigs to test them personally, I cannot guarantee the grogs you may use on your line, especially if only instructed from the internet. Use grogs at your own risk, and only if you feel comfortable with the information presented here.
