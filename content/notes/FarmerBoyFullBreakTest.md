@@ -11,7 +11,7 @@ tags:
 
 ## Main Test 
 
-Below are the full 40 break tests of [Farmer Boy 5mm diamond braid polyester cord](https://farmerboyag.com/unicord-diamond-braid-rope-3-16-in-dia-x-1000-ft-l-polyester/). All tests were measured with a LineScale 2 on Peak Fast mode, with soft shackles connecting directly to the dynamometer. Tension was pulled by a single person per test on a 15:1 pulley system with 3" SMC pulleys. Samples were between 2 and 3 meters long. 
+Below are the full 40 break tests of [Farmer Boy 5mm diamond braid polyester cord](https://farmerboyag.com/unicord-diamond-braid-rope-3-16-in-dia-x-1000-ft-l-polyester/). All tests were measured with a LineScale 2 on Peak Fast mode, with soft shackles connecting directly to the dynamometer. Tension was pulled by a single person per test on a 15:1 pulley system with 3" SMC pulleys. Samples were between 2 and 3 meters long, and had a figure 8 knot terminating any end not being tested (on both sides for the bend tests, on one side for the device tests).
 
 The cord in this test was about 2 years old and heavily used. Offcuts with notable abrasion spots were avoided where possible, although there was likely significant variation in wear across different test samples. The cord was broken because it was deemed due for retirement, and so represents conservative strength values for used cord. 
  
@@ -21,9 +21,9 @@ The cord in this test was about 2 years old and heavily used. Offcuts with notab
 | 8 to 8 | 1 | 2.21 | Broke in middle |
 | 8 to 8 | 2 | 2.44 | Broke in middle |
 | 8 to 8 | 3 | 2.20 | Broke in middle |
-| Alpine Butterfly | 1 | 2.10 | Broke at knot |
-| Alpine Butterfly | 2 | 2.18 | Broke at knot |
-| Alpine Butterfly | 3 | 2.4 | Broke at knot |
+| Alpine Butterfly Bend | 1 | 2.10 | Broke at knot |
+| Alpine Butterfly Bend | 2 | 2.18 | Broke at knot |
+| Alpine Butterfly Bend | 3 | 2.4 | Broke at knot |
 | Double Sheet Bend (Yosemite Finish) | 1 | 2.22 | Broke at knot |
 | Double Sheet Bend (Yosemite Finish) | 2 | 1.98 | Broke at knot |
 | Double Sheet Bend (Yosemite Finish) | 3 | 2.14 | Broke at knot |
