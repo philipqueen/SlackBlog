@@ -14,6 +14,8 @@ tags:
 Below are the full 40 break tests of [Farmer Boy 5mm diamond braid polyester cord](https://farmerboyag.com/unicord-diamond-braid-rope-3-16-in-dia-x-1000-ft-l-polyester/). All tests were measured with a LineScale 2 on Peak Fast mode, with soft shackles connecting directly to the dynamometer. Tension was pulled by a single person per test on a 15:1 pulley system with 3" SMC pulleys. Samples were between 2 and 3 meters long, and had a figure 8 knot terminating any end not being tested (on both sides for the bend tests, on one side for the device tests).
 
 The cord in this test was about 2 years old and heavily used. Offcuts with notable abrasion spots were avoided where possible, although there was likely significant variation in wear across different test samples. The cord was broken because it was deemed due for retirement, and so represents conservative strength values for used cord. 
+
+For full discussion of Farmer Boy, see [the main post](notes/FarmerBoyKnotsDevices.md).
  
 
 | Break Type | Sample Number | Breaking Strength (kN) | Comments |
