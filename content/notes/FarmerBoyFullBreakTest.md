@@ -66,15 +66,15 @@ For full discussion of Farmer Boy, see [the main post](notes/FarmerBoyKnotsDevic
 | Duck | 1 | 2.44 |  |
 | Duck | 2 | 2.46 |  |
 | Duck | 3 | 2.57 |  |
-| Ropeman | 1 | 2.11 | Minor Slippage |
-| Ropeman | 2 | 1.78 | Slipped around 1.6 |
-| Ropeman | 3 | 1.96 |  |
-| Spoc | 3 | 2.41 |  |
-| Spoc | 1 | 2.39 | Desheathed then broke |
-| Spoc | 2 | 2.33 |  |
-| Nightize Cam | 1 | 2.87 |  |
-| Nightize Cam | 2 | 2.74 | Slipped before breaking | 
-| Nightize Cam | 3 | 2.80 | Broke at 8 knot | 
+| Ropeman 1 | 1 | 2.11 | Minor Slippage |
+| Ropeman 1 | 2 | 1.78 | Slipped around 1.6 |
+| Ropeman 1 | 3 | 1.96 |  |
+| Spoc | 1 | 2.41 |  |
+| Spoc | 2 | 2.39 | Desheathed then broke |
+| Spoc | 3 | 2.33 |  |
+| Nite Ize CamJam XT | 1 | 2.87 |  |
+| Nite Ize CamJam XT | 2 | 2.74 | Slipped before breaking | 
+| Nite Ize CamJam XT | 3 | 2.80 | Broke at 8 knot | 
 | 4 Wrap Prusik | 3 | 1.26 | Made of Farmer Boy, Slips | 
 
 
