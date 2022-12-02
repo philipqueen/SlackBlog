@@ -76,7 +76,7 @@ For full discussion of Pull Rope, see [the main post](notes/PullRopeKnotsDevices
 | Ropeman 1 | 3 | 2.11 | Slipped, damaged but didn't desheath |
 | Rock Exotica Cam | 1 | 4.28 | Started slipping at 3.5, desheathed |
 | Rock Exotica Cam | 2 | 4.18 | Started slipping at 2.1, no full failure but cord very damaged |
-| Rock Exotica Cam | 3 | 1.24 | Started slipping at 2.1, desheathed |
+| Rock Exotica Cam | 3 | 4.41 | Started slipping at 2.1, desheathed |
 | Petzl Rescuecender (Old Style) | 1 | 1.56 | Fully slips |
 | Nite Ize CamJam XT | 1 | 3.89 | Slipped at 3.3, continued slipping with tension around 1 |
 | 4 Wrap Prusik, Pull Rope | 1 | 5.2 | Slipped at 2.1, 3.7, broke, melted to rope | 
