@@ -38,10 +38,27 @@ This testing would not have been possible without the generous donation of the r
 
 Capstan and spliced eye values are both weaker than expected, with a capstan to capstan value of 6.79 kN, instead of the 12 kN rating, and a spliced eye value of 5.46 kN. Lower than expected capstan values likely indicate the cord was significantly worn, while low spliced eye values likely indicate the spliced eyes were never full strength. 
 
+For knots, the Figure 8s tested were stronger than the weaker spliced eye at 5.6 kN. Alpine Bends and Double Sheet Bends were both weaker than figure 8s, but similar to each other, at 4.6 and 4.7 kN respectively.
+
+For toothed progress capture devices, the Petzl Pro Traxion performed the best at 3.9 kN. Unlike in the [Farmer Boy testing](notes/FarmerBoyKnotsDevices), the Micro Traxion (3.2 kN) outperformed the Mini Traxion (3.1 kN), which also slipped at 2.9kN in the same test. The Edelrid Spoc was also tested, and matched the Mini Trax at 3.1 kN. The Micro Trax was tested doubled, and performed significantly better at 4.33 kN, the best of any of the toothed progress captures. We also attempted to test the Mini Trax doubled, and the one sample broke at 4.11 kN, but wedged in between the sideplate and the pulley, and more testing seemed to risk hurting the device. 
+
+A second set of tests was done on the Pro Trax with an extra meter or more of space between the termination knot and Trax in order to see if the short space between the knot and device in the tests was influencing the breaking strength. The results were not significantly different (3.9 kN for the short distance, 3.7 kN for the longer distance), indicating the short throw distance used in these tests was not problematic. 
+
+We also tested a chained Mini Trax and Micro Trax to try to replicate the Paradise Mile failure and see if chaining toothed progress captures does improve their performance. The tagline was loaded into the Mini Trax, and then the tail was loaded into a Micro Trax about a foot away and at a 90 degree angle from the direction of pull. This broke at 5.1 kN, showing a massive benefit to chaining progress captures. This test does not adequately reflect the setup of the mile failure though, because the Micro Trax had not yet seen tension since nothing had pulled behind it yet. 
+
+Three configurations of handled ascenders were tested. A standard, single handled ascender broke at 3.3 kN. Two handled ascenders, chained in line with a carabiner, broke at 4.2 kN after slipping at 3.5 kN. The same two ascenders, connected with a sliding X in a short nylon sling instead of a carabiner, broke higher at 4.5 kN. 
+
+Of the three standard camming devices tested, the Kong Duck performed the best at 3.6 kN. This outperformed the Petzl Micro Trax but not the Pro Trax, showing that the general rule that camming devices preserve more strength than toothed devices is false. The Roll N Lock also slightly outperformed the Micro Trax at 3.4 kN, while the Ropeman 1 broke as low as 1.6 kN. We also tested an old Rock Exotica cam, which we were not able to find a device name for, but which broke very high at 4.2 kN, but began slipping at 2.1kN. We did one test each of the Petzl Rescuecender (an older than current model), which broke at 1.6 kN, and the very cheap Nite Ize CamJam XT, which broke at 3.9 kN. The CamJam continues to impress for a device costing only $15, although its design makes it very impractical for use on bigger lines where knots in the tagline will have to be passed.
+
+Finally, we tested three configurations of 4 wrap prusiks. The first was made out of a short sling of Pull Rope, which broke very high 5.2 kN, but started slipping as early as 1.7 kN. We also did one test each of two models of Sterling Hollow Blocks. The 6.8mm, rectangular style hollow block, slipped at .8 kN and never was able to hold more tension. The 5mm round style hollow block slipped at 2.7 kN, and also was unable to hold more tension.
 
 ## Recommendation
 
+In the worn Pull Rope, the spliced eyes have a small advantage over just terminating the sections in a Figure 8. The Figure 8 based Flemish Bend (untested) would be the strongest direct connection, although much more difficult to untie than an Alpine Bend or Double Sheet Bend, which were indistinguishable in this testing. 
 
+For progress capture devices, the Petzl Pro Trax was the best performing, followed by the Kong Duck. If doubling the tagline in the device is suitable for your project, the double wrapped Mini Trax outperformed all of the single wrapped devices. Whichever device is chosen, if it is possible to reach forces near 3 kN, using multiple devices in line (with tension pulled through both) will significantly increase your safety margin. 
+
+Two handled ascenders connected with a sliding X outperformed all other progress captures, and if there is a way to mind them (by having slight tension pulled from the front of the ascenders) they are the best option for high tension use of Pull Rope. Prusiks made of Pull Rope have a similarly high break strength, but have a tendency to slip badly. They may be a good, cheap backup option to the main progress capture, and could also serve as a tension limiting device.
 
 ## Results
 
