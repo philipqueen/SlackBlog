@@ -10,6 +10,8 @@ tags:
 
 # Testing Farmer Boy 5mm Diamond Braid Polyester Cord in Knots and Devices
 
+![Broken Farmer Boy samples](notes/images/BrokenFarmerBoy.jpg)
+
 ## Introduction 
 
 [Farmer Boy 5mm diamond braid polyester cord](https://farmerboyag.com/unicord-diamond-braid-rope-3-16-in-dia-x-1000-ft-l-polyester/) is a commonly used highline tagline in the United States. It is often called Farmer Boy because it is sold by Farmer Boy Ag. It is relatively large diameter, but relatively low strength. The product page lists its tensile strength as both 650 lbs (2.9 kN) and 800 lbs (3.6 kN), although 650 lbs is more accurate given the test results on it. Additional testing showed values of over 900 lbs (4.0 kN), which may indicate the more used seciton tested first was weaker, or strength was suffering more in the figure 8 knots than we had thought. It is often used to tag long highlines, but has also failed on a few highlines. 
@@ -92,3 +94,4 @@ For full break test results, see [Farmer Boy Full Break Tests](notes/FarmerBoyFu
 ### Edits
 I will be trying to keep this page up to date with feedback and new information, and will keep track of edits as I make them here.
 1. Added additional break test results and changed discussion to reflect them (10/19/22)
+2. Added image from break testing (12/2/22)
