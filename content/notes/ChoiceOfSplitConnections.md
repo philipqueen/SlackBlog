@@ -60,9 +60,14 @@ Quicklinks are often thought to be the most secure connection method, perhaps du
 
 Soft shackles are often seen as a less secure option for connections compared to quicklinks, but there are no documented cases of soft shackles opening when used in a split connection. Like quicklinks, they can be taped shut by applying a small amount of tape at the noose. The most secure method for using soft shackles is most likely just keeping all soft shackles under tension, which can be achieved by a "through-all-four system." Some people employ one of two different varieties of "locking soft shackles," where either the noose or the knot is passed through the legs of the soft shackle before putting the noose over the knot, but it is unclear if there's any advantage to this method. 
 
-[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
+[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
   
 ### Minimization of Movement
+%% this section can probably be better organized%%
+Movement in a split connection can't be fully avoided due to the dynamic nature of highlines, and it has been responsible for a numbers of failures on split highlines. Regular movement of the highline can cause a back and forth sawing motion that allows twisted backups, especially round dyneema backup extenders, to abrade into the mainline. High wind has caused multiple types of split failures, including shaking open quicklinks and causing a soft shackle to be cut by the webbing in a DLV connection. During a backup fall, the rapid shift of tension has potential to create a significant amount of heat if there is movement within the split, as there is in many connection styles. We can't fully avoid movement in our highlines: in the case of wind and backup falls, we try our best to avoid them but can't guarantee that we will, and regular movement of the highline is a core part of why we highline. The best we can do is mitigate its effects by choosing good split setups.
+
+There are four main dangers to movement: cutting, abrasion, heat, and vibration. All of these can happen due to fast, repetitive motions like those due to wind or significant shaking of the line, and all except vibration can also happen due to a single, explosive event like a shift in tension due to a backup fall. Vibration is primarily a concern for quicklinks, as it can cause them to unscrew. Cutting, abrasion, and heat can all be caused either by fast 
+
   
 
 ### Ease of Inspection
