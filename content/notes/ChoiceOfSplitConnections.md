@@ -63,12 +63,12 @@ Soft shackles are often seen as a less secure option for connections compared to
 [Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
   
 ### Minimization of Movement
-%% this section can probably be better organized%%
-Movement in a split connection can't be fully avoided due to the dynamic nature of highlines, and it has been responsible for a numbers of failures on split highlines. Regular movement of the highline can cause a back and forth sawing motion that allows twisted backups, especially round dyneema backup extenders, to abrade into the mainline. High wind has caused multiple types of split failures, including shaking open quicklinks and causing a soft shackle to be cut by the webbing in a DLV connection. During a backup fall, the rapid shift of tension has potential to create a significant amount of heat if there is movement within the split, as there is in many connection styles. We can't fully avoid movement in our highlines: in the case of wind and backup falls, we try our best to avoid them but can't guarantee that we will, and regular movement of the highline is a core part of why we highline. The best we can do is mitigate its effects by choosing good split setups.
 
-There are four main dangers to movement: cutting, abrasion, heat, and vibration. All of these can happen due to fast, repetitive motions like those due to wind or significant shaking of the line, and all except vibration can also happen due to a single, explosive event like a shift in tension due to a backup fall. Vibration is primarily a concern for quicklinks, as it can cause them to unscrew. Cutting, abrasion, and heat can all be caused either by fast 
+Movement in a split connection can't be fully avoided due to the dynamic nature of highlines, and it has been responsible for a numbers of failures on split highlines. Regular movement of the highline can cause a back and forth sawing motion that allows twisted backups, especially those made up of round dyneema backup extenders, to abrade into the mainline. High wind has caused multiple types of split failures, including shaking open quicklinks and causing a soft shackle to be cut by the webbing in a DLV (Dura-La-Vida) connection. During a backup fall, the rapid shift of tension has potential to create a significant amount of heat if there is movement within the split, as there is in many connection styles. We can't fully avoid movement in our highlines: in the case of wind and backup falls, we try our best to avoid them but can't guarantee that we will, and regular movement of the highline is a core part of why we highline. The best we can do is mitigate its effects by choosing good split setups.
 
-  
+Split setups should be chosen to avoid the potential for movement related failure modes like cutting, abrasion, and heat (vibration is another failure mode that is mostly an issue for quicklinks). The first step is to decrease the potential for explosive shifts during backup falls, as the fast shifts create potential for cutting and abrasion and can generate significant heat. Ideally, there is no difference in how the connectors are loaded during a backup fall. The Y2K system is a good example of very limited movement because as long as the backup connector is small enough, the two backup loops do not have the ability to move in the connection. The classic Inov Split has too much movement: because the backup connector is attached to a sliding x on a soft shackle, whichever mainline breaks is going to cause a shift in both the main soft shackle and the backup connector. 
+
+Beyond just explosive movements during a backup fall, splits should minimize the possible movement in its "standard" configuration as well. The "through-all-four" split is the best at minimizing movement. Because everything in the split shares tension, there is little potential for extraneous movement. The shared tension also prevents explosive movements in a backup fall. The DLV split is particularly bad at minimizing movement due to its large size, required by the sewing. This extra space allows the connector to move back and forth freely, which is what caused the webbing in a DLV to cut the soft shackle in the incident mentioned above. Although this incident happened in heavy wind, it's possible for the same effect to happen during a backup fall. While quicklinks would not be cut by the webbing in these scenarios, it's possible for the quicklink to cut the webbing if it has any sharp edges, which is especially likely if the quicklink has partially opened.
 
 ### Ease of Inspection
 
@@ -87,8 +87,14 @@ There are four main dangers to movement: cutting, abrasion, heat, and vibration.
   
 
 ### Bulk
-
+- difficulty passing, even with big rings
+- makes rescues more difficult
+- more difficult to use z drags, risk of injury when trying to pass it through
 
 
 ### Weight
 
+- heavy metal can hit you
+- sucks to walk past, creates nodes
+- linear density
+- heavier to carry
