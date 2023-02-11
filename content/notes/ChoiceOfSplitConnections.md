@@ -14,7 +14,6 @@ tags:
 
 ## Safety Related Factors
 
-
 ### Strength
 
 How strong does a connector in a highline split need to be? 
@@ -27,8 +26,6 @@ A connector with a strength in the low-to-mid 30s should be sufficient for almos
 
 In some split setups, two connectors can be used in such a way that they share load. In theory, you can add the two connectors' strengths together if the load is perfectly shared, but in order to preserve redundancy, each connector should be strong enough on its own. 
 
-  
-
 ### Redundancies
 
 Split highlines offer major safety advantages over traditional single strand highlines, but require paying much closer attention to redundancy. Between the anchors, a traditional highline requires one redundancy: A backup in case the mainline fails. Split highlines, however, have many required redundancies that can depend on the system used: What if one mainline fails? What if the other mainline fails? What if both fail? What if a connector fails? 
@@ -39,8 +36,6 @@ The pull test ensures redundancy of your webbing, but it's also important to tes
 
 This may seem like a lot to test, but redundancy has prevented countless highline accidents from becoming serious or fatal. Remember that the key to redundancy is that any one part of the system can fail without the whole system failing. What does it mean for the system to fail? It may mean different things depending on the situation, like on a low midline, where the whole system may be intact, but the system failed if a backup fall led to the slackliner hitting the deck. 
 
-  
-
 ### Prevention of Cascading Failure
 
 Any split connection should prevent cascading failures as much as possible. A **cascading failure** occurs when the failure of one component leads to other components failing. 
@@ -50,7 +45,6 @@ An example of a split connection with cascading failures is the the classic Inov
 To see how this is avoidable, consider the "through-all-four" split system, where two soft shackles each go through all four (two main, two backup) sewn loops, often with the backup loops stacked inside the main loops. Both soft shackles share load, and connect to the same points in the system. Now if one soft shackle fails, nothing else in the system is affected. We have lost redundancy at the split, but nothing else has failed. Importantly, a large fall has been avoided, and redundancy has been preserved across both segments. 
 
 At its worst, a cascading failure means that one component failing leads to the whole system failing. Proper redundancy prevents this by ensuring that any one component of the system can fail without the system failing. But even with full redundancy, a cascading failure can turn a small mistake into a big mistake. Not only is falling onto two backup segments a serious risk of groundfall on many lines, but it now requires a rescue off of a line with two segments worth of lost redundancy. Cascading failures generally come with a cascading loss of redundancy, and in the conditions that are most likely to cause highline failures (adverse weather and user error), you want all of the redundancy you can get. Remember, most major accidents are the result of multiple bad decisions - do your best to insulate your bad decisions from each other.
-
 
 ### Security
 
@@ -72,6 +66,12 @@ Beyond just explosive movements during a backup fall, splits should minimize the
 
 ### Ease of Inspection
 
+Following the tips discussed above will help you decide on a safe highline split setup. None of them, however, are foolproof against human error, and human error is the leading cause of fatal accidents in highlining. Making your splits easy to inspect will help you and anyone you rig with catch potentially catastrophic errors.
+
+The most important 
+- human error is still the leading cause of accidents
+- simple is better
+- not covering splits with sleeves/excessive tape
   
 
 ## ---
@@ -79,12 +79,6 @@ Beyond just explosive movements during a backup fall, splits should minimize the
   
 
 ## Use and Convenience Related Factors
-
-
-
-### Ease of Setup/Takedown
-
-  
 
 ### Bulk
 - difficulty passing, even with big rings
@@ -98,3 +92,6 @@ Beyond just explosive movements during a backup fall, splits should minimize the
 - sucks to walk past, creates nodes
 - linear density
 - heavier to carry
+
+
+### Ease of Setup/Takedown
