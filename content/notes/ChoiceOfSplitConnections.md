@@ -10,8 +10,6 @@ tags:
 
 # Factors Influencing Choice of Split Connections
 
----
-
 ## Safety Related Factors
 
 ### Strength
@@ -52,9 +50,9 @@ The security of a split connection refers to how securely attached the different
 
 Quicklinks are often thought to be the most secure connection method, perhaps due to the psychological effect of having a solid piece of metal in the system. But quicklinks are not a solid piece of metal. If a quicklink is not fully screwed shut, it can fail much lower than its rated force. It is best to think of a quicklink as being only as secure as the last turn of its closure. **If using quicklinks in split connections, always use a wrench to tighten them.** Even then, quicklinks have been known to fail on split connections due to the vibration of an extreme wind event. Some people will tape the closure of their quicklinks shut after wrench-tightening them to help prevent movement from vibration.
 
-Soft shackles are often seen as a less secure option for connections compared to quicklinks, but there are no documented cases of soft shackles opening when used in a split connection. Like quicklinks, they can be taped shut by applying a small amount of tape at the noose. The most secure method for using soft shackles is most likely just keeping all soft shackles under tension, which can be achieved by a "through-all-four system." Some people employ one of two different varieties of "locking soft shackles," where either the noose or the knot is passed through the legs of the soft shackle before putting the noose over the knot, but it is unclear if there's any advantage to this method. 
+Soft shackles are often seen as a less secure option for connections compared to quicklinks, but there are no documented cases of soft shackles opening when used in a split connection ([If you know of any, please file a SAIR report through the ISA](https://data.slacklineinternational.org/safety/report-incident/english/)). Like quicklinks, they can be taped shut by applying a small amount of tape at the noose. The most secure method for using soft shackles is most likely just keeping all soft shackles under tension, which can be achieved by a "through-all-four system." Some people employ one of two different varieties of "locking soft shackles," where either the noose or the knot is passed through the legs of the soft shackle before putting the noose over the knot, but it is unclear if there's any advantage to this method. 
 
-[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
+[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice, although more real world use is needed to confirm this. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
   
 ### Minimization of Movement
 
@@ -66,32 +64,26 @@ Beyond just explosive movements during a backup fall, splits should minimize the
 
 ### Ease of Inspection
 
-Following the tips discussed above will help you decide on a safe highline split setup. None of them, however, are foolproof against human error, and human error is the leading cause of fatal accidents in highlining. Making your splits easy to inspect will help you and anyone you rig with catch potentially catastrophic errors.
-
-The most important 
-- human error is still the leading cause of accidents
-- simple is better
-- not covering splits with sleeves/excessive tape
+Following the tips discussed above will help you decide on a safe highline split setup. None of them, however, are foolproof against human error, and human error is the leading cause of fatal accidents in highlining. Making your splits easy to inspect will help you and anyone you rig with catch potentially catastrophic errors. Simple splits are easier to inspect, especially for people unfamiliar with your method of making connections. It should be easy to tell that both of your backups are connected to both mains and to see that each connector is going through the proper loop. Splits covered in sleeves or excessive tape can be difficult or impossible to inspect, and have a high potential for uncaught human error. For example, if you have taped a quicklink shut, it is no longer easy to tell if it has been wrenched closed without undoing the tape (if it is still easy to tell, the tape is not doing anything).
   
 
-## ---
+---
 
-  
 
 ## Use and Convenience Related Factors
 
 ### Bulk
-- difficulty passing, even with big rings
-- makes rescues more difficult
-- more difficult to use z drags, risk of injury when trying to pass it through
 
+Splits can add significant bulk to the otherwise continuous 1" wide highlines we walk, which can catch your leashring while you walk, interrupting your flow and possibly your send. While a caught sewn loop while walking can be annoying, big splits also make rescues significantly more difficult and time consuming. While a Kootenay (knot passing pulley) can help mitigate this, they're rarely found at most rigs and still can be needlessly caught by a large split. Rescues are already a very time sensitive maneuver, and a large split only reduces your chance of a successful outcome. Large splits are also difficult to pass through z-drags, and trying to force a split through a z-drag while under tension can easily lead to injury. 
+
+In the past 2 years, slackline companies have started to make large (~3" inner diameter) aluminum leashrings specifically designed to make walking past splits easier. However, even with big leashrings you can get snagged on an overly bulky split. With older style leashrings, a poorly made split can be almost impossible to pass. Keeping your splits slim in both directions perpendicular to the webbing will help your leashrings glide smoothly past while you walk. It's also important to setup your split so there are no protruding pieces to catch a ring, which can include tucking button knots inside the sewn loops or inverting the shackle so they point inwards, taping your backup loops to the main so the stiff stitching can't protrude, and taping the tab at the end of the stitching on both main and backup loops.
 
 ### Weight
 
-- heavy metal can hit you
-- sucks to walk past, creates nodes
-- linear density
-- heavier to carry
+Splits are generally significantly heavier than the webbing around them, which makes walking harder by changing the line dynamics and makes your whole rig heavier to carry. Heavy metal in a split can also seriously injure someone if they fall right at the split. Steel leashrings have been known to hit people in the face, breaking teeth and noses, and quicklinks in a split are just as capable of hurting someone in a fall. 
 
+The ideal split has the exact linear density, or weight per meter, of your main and backup webbing together. It is likely better to be too light than too heavy. Calculating this can be very difficult, as it requires knowing the exact weight of your sewn loops, and will differ across different webbings. It is useful as an ideal because it can help explain why saving a few dozen grams in your pack weight might not matter much, but saving that same weight out of your line might make a huge difference in how your line feels to walk.
 
 ### Ease of Setup/Takedown
+
+If you are connecting and disconnecting different webbings on site, it is beneficial to have connections that are fast and easy to make and take apart. Even if you've connected your webbing beforehand, you may end up changing them on site if you made a mistake like swapping the main and backup on a segment. Soft shackles are the easiest connector to do and undo, because they do not need a special tool to use. Both quicklinks and grog splices need special tools to make a connection (a wrench and a fid, respectively), and quicklinks will also need a tool to undo. While they are still relatively quick to connect (see [splicing grogs on site](notes/SplicingGrogsOnSite.md)), they won't be if you're trying to makeshift a tool at the anchor. In addition to your connectors, it is important you are familiar with your split style and have practice making it. Trying to remember which connector goes where while stressed at the anchor is not ideal for a few reasons, speed only being one of them.
