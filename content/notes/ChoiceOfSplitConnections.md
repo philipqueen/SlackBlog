@@ -38,15 +38,18 @@ This may seem like a lot to test, but redundancy has prevented countless highlin
 
 Any split connection should prevent cascading failures as much as possible. A **cascading failure** occurs when the failure of one component leads to other components failing. 
 
-![Double soft shackle Inov Split - side view](notes/images/ssInovSide.jpg)
-![Double soft shackle Inov Split - top view](notes/images/ssInovTop.jpg)
-*The "Inov Split" split system with two soft shackles. the knots of the soft shackles are tucked inside the sewn loops. In the classic Inov Split, the center soft shackle connecting the two backups is replaced by a quicklink. If the "S" shaped soft shackle were to fail, both mains would be out of the system leading to a double backup fall.*
+| ![Double soft shackle Inov Split - side view](notes/images/ssInovSide.jpg) |
+| -------------------------------------------------------------------------- |
+| ![Double soft shackle Inov Split - top view](notes/images/ssInovTop.jpg)   |
+|  :--:   |
+| *The "Inov Split" split system with two soft shackles. the knots of the soft shackles are tucked inside the sewn loops. In the classic Inov Split, the center soft shackle connecting the two backups is replaced by a quicklink. If the "S" shaped soft shackle were to fail, both mains would be out of the system leading to a double backup fall.* |
 
 An example of a split connection with cascading failures is the the classic Inov Split, where a soft shackle connects both mainlines in a figure eight pattern, and a quicklink connects both backups to the crossing strands of the soft shackle. The system is fully redundant, because no single piece failing leads to failure of the whole system. However, because the backup loops are not connected directly to the opposing side main loops, the system is set up for a cascading failure in the case of soft shackle failure. If the soft shackle fails, the line drops onto two backup segments, which is equivalent to both main segments failing. The failure of the soft shackle cascades through to the segments it was connecting, resulting in a large fall.
 
-| ![2 through 4 with two soft shackles - side view](notes/images/2through4side.jpg)   |
-| ![2 through 4 with two soft shackles - sidetop view](notes/images/2through4top.jpg) |
-| :--: |
+| ![2 through 4 with two soft shackles - side view](notes/images/2through4side.jpg)                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![2 through 4 with two soft shackles - sidetop view](notes/images/2through4top.jpg)                                                                                                                                                                                                 |
+| :--:                                                                                                                                                                                                                                                                                |
 | *The "through-all-four" or "two-through-four" split system with two soft shackles. The knots of the soft shackles are tucked in the gap between the loops. The backups are tucked inside the main loops to act as thimbles, and are tucked from opposite sides to prevent rolling.* |
 
 To see how this is avoidable, consider the "through-all-four" split system, where two soft shackles each go through all four (two main, two backup) sewn loops, often with the backup loops stacked inside the main loops. Both soft shackles share load, and connect to the same points in the system. Now if one soft shackle fails, nothing else in the system is affected. We have lost redundancy at the split, but nothing else has failed. Importantly, a large fall has been avoided, and redundancy has been preserved across both segments. 
