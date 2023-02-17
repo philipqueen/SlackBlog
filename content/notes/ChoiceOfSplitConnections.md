@@ -10,6 +10,8 @@ tags:
 
 # Factors Influencing Choice of Split Connections
 
+!["Through-all-four" connection with two grogs, shown in the field](notes/images/grogsplit1.jpeg)
+
 ## Safety Related Factors
 
 ### Strength
@@ -20,9 +22,14 @@ The first answer is as strong as any expected force, plus a safety factor. On a 
 
 What happens as lines get longer? The highest forces recorded on very large highlines are around 20 kN in wind (the Asbestos 1.9 km reached 20.5 kN peak force, and the Norway 2.8km reached 19.5 kN peak force), and it is clear a 21 kN connector will no longer suffice. But achieving even a 3:1 safety factor then requires a 60kN connector, which is unnecessary when most high tech webbings used in these big lines break between 30 and 35 kN in a sewn loop. This motivates the more general recommendation that your connector in a split system should be as strong as the strength of the webbing it is attached to in a sewn loop. 
 
+!["The Cursive W" split system - side view](notes/images/cursiveWside.jpg)
+!["The Cursive W" split system - top view](notes/images/cursiveWtop.jpg)
+<p align="center"> <em>The "Cursive W" split system with two soft shackles. Structurally, this is very similar to "the W" shown below, but the long soft shackle crosses back and forth to connect to all of the loops. The 5mm soft shackles shown here are each ~45+ kN, and are suitably strong for split connections. The double wrapped soft shackle connecting the main loops should be twice that strength. </em> </p>
+
 A connector with a strength in the low-to-mid 30s should be sufficient for almost all highline webbings on the market now. 5mm button knot soft shackles, 5mm grog slings doubled, 4mm button knot soft shackles doubled, and most 8mm quicklinks will have a strength ~35+kN. Some heavier nylon and polyester webbings or older high tech webbings have strengths of above 40kN, and it is likely that the next generation of high tech webbings will be stronger, so there may be an incentive for stronger connectors for some users.
 
 In some split setups, two connectors can be used in such a way that they share load. In theory, you can add the two connectors' strengths together if the load is perfectly shared, but in order to preserve redundancy, each connector should be strong enough on its own. 
+
 
 ### Redundancies
 
@@ -38,19 +45,15 @@ This may seem like a lot to test, but redundancy has prevented countless highlin
 
 Any split connection should prevent cascading failures as much as possible. A **cascading failure** occurs when the failure of one component leads to other components failing. 
 
-| ![Double soft shackle Inov Split - side view](notes/images/ssInovSide.jpg) |
-| -------------------------------------------------------------------------- |
-| ![Double soft shackle Inov Split - top view](notes/images/ssInovTop.jpg)   |
-|  :--:   |
-| *The "Inov Split" split system with two soft shackles. the knots of the soft shackles are tucked inside the sewn loops. In the classic Inov Split, the center soft shackle connecting the two backups is replaced by a quicklink. If the "S" shaped soft shackle were to fail, both mains would be out of the system leading to a double backup fall.* |
+![Double soft shackle Inov Split - side view](notes/images/ssInovSide.jpg) ![Double soft shackle Inov Split - top view](notes/images/ssInovTop.jpg)   
+<p align="center"> <em>The "Inov Split" split system with two soft shackles. The knots of the soft shackles are tucked inside the sewn loops. In the classic Inov Split, the center soft shackle connecting the two backups is replaced by a quicklink. If the "S" shaped soft shackle were to fail, both mains would be out of the system leading to a double backup fall.</em> </p>
 
 An example of a split connection with cascading failures is the the classic Inov Split, where a soft shackle connects both mainlines in a figure eight pattern, and a quicklink connects both backups to the crossing strands of the soft shackle. The system is fully redundant, because no single piece failing leads to failure of the whole system. However, because the backup loops are not connected directly to the opposing side main loops, the system is set up for a cascading failure in the case of soft shackle failure. If the soft shackle fails, the line drops onto two backup segments, which is equivalent to both main segments failing. The failure of the soft shackle cascades through to the segments it was connecting, resulting in a large fall.
 
-| ![2 through 4 with two soft shackles - side view](notes/images/2through4side.jpg)                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![2 through 4 with two soft shackles - sidetop view](notes/images/2through4top.jpg)                                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *The "through-all-four" or "two-through-four" split system with two soft shackles. The knots of the soft shackles are tucked in the gap between the loops. The backups are tucked inside the main loops to act as thimbles, and are tucked from opposite sides to prevent rolling.* |
+![2 through 4 with two soft shackles - side view](notes/images/2through4side.jpg)                                                                                                                                                                                                   ![2 through 4 with two soft shackles - sidetop view](notes/images/2through4top.jpg)                                                                                                                                                                                                 
+<p align="center">
+<em>The "through-all-four" or "two-through-four" split system with two soft shackles. The knots of the soft shackles are tucked in the gap between the loops. The backups are tucked inside the main loops to act as thimbles, and are tucked from opposite sides to prevent rolling.</em>
+</p>
 
 To see how this is avoidable, consider the "through-all-four" split system, where two soft shackles each go through all four (two main, two backup) sewn loops, often with the backup loops stacked inside the main loops. Both soft shackles share load, and connect to the same points in the system. Now if one soft shackle fails, nothing else in the system is affected. We have lost redundancy at the split, but nothing else has failed. Importantly, a large fall has been avoided, and redundancy has been preserved across both segments. 
 
@@ -64,11 +67,8 @@ Quicklinks are often thought to be the most secure connection method, perhaps du
 
 Soft shackles are often seen as a less secure option for connections compared to quicklinks, but there are no documented cases of soft shackles opening when used in a split connection ([If you know of any, please file a SAIR report through the ISA](https://data.slacklineinternational.org/safety/report-incident/english/)). Like quicklinks, they can be taped shut by applying a small amount of tape at the noose. The most secure method for using soft shackles is most likely just keeping all soft shackles under tension, which can be achieved by a "through-all-four system." Some people employ one of two different varieties of "locking soft shackles," where either the noose or the knot is passed through the legs of the soft shackle before putting the noose over the knot, but it is unclear if there's any advantage to this method. 
 
-| !["Through-all-four" system with two grog splices - side view](notes/images/2grogsSide.jpg)                                  |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| !["Through-all-four" system with two grog splices - top view](notes/images/2grogsTop.jpg)                                    |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| *Grog splices used in a "through all 4" split system instead of soft shackles. Note the significantly reduced side profile*. |
+!["Through-all-four" system with two grog splices - side view](notes/images/2grogsSide.jpg)                                  !["Through-all-four" system with two grog splices - top view](notes/images/2grogsTop.jpg)                                    
+<p align="center"> <em>Grog splices used in a "through all 4" split system instead of soft shackles. Note the significantly reduced side profile. </em></p>
 
 [Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice, although more real world use is needed to confirm this. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
   
@@ -78,11 +78,22 @@ Movement in a split connection can't be fully avoided due to the dynamic nature 
 
 Split setups should be chosen to avoid the potential for movement related failure modes like cutting, abrasion, and heat (vibration is another failure mode that is mostly an issue for quicklinks). The first step is to decrease the potential for explosive shifts during backup falls, as the fast shifts create potential for cutting and abrasion and can generate significant heat. Ideally, there is no difference in how the connectors are loaded during a backup fall. The Y2K system is a good example of very limited movement because as long as the backup connector is small enough, the two backup loops do not have the ability to move in the connection. The classic Inov Split has too much movement: because the backup connector is attached to a sliding x on a soft shackle, whichever mainline breaks is going to cause a shift in both the main soft shackle and the backup connector. 
 
+!["Dura La Vida" split connection with quicklinks - side view](notes/images/DuraLaVidaSide.jpg)                                  
+<p align="center"> <em>"Dura La Vida" connection with two quicklinks. Note the gap in the sewing on the right that allows significant back and forth motion. </em></p>
+
 Beyond just explosive movements during a backup fall, splits should minimize the possible movement in its "standard" configuration as well. The "through-all-four" split is the best at minimizing movement. Because everything in the split shares tension, there is little potential for extraneous movement. The shared tension also prevents explosive movements in a backup fall. The DLV split is particularly bad at minimizing movement due to its large size, required by the sewing. This extra space allows the connector to move back and forth freely, which is what caused the webbing in a DLV to cut the soft shackle in the incident mentioned above. Although this incident happened in heavy wind, it's possible for the same effect to happen during a backup fall. While quicklinks would not be cut by the webbing in these scenarios, it's possible for the quicklink to cut the webbing if it has any sharp edges, which is especially likely if the quicklink has partially opened.
 
 ### Ease of Inspection
 
+
+!["The W" split connection method - side view](notes/images/theWside.jpg)
+!["The W" split connection method - top view](notes/images/theWtop.jpg)
+<p align="center"> <em>"The W" split system with two soft shackles. "The W" allows offsetting the sewn loops by using a longer backup connector. The main connector soft shackle is doubled wrapped here to keep the loops close together. This split setup is not complicated once you know it, but is relatively hard to inspect when you see it the first time. </em> </p>
+
 Following the tips discussed above will help you decide on a safe highline split setup. None of them, however, are foolproof against human error, and human error is the leading cause of fatal accidents in highlining. Making your splits easy to inspect will help you and anyone you rig with catch potentially catastrophic errors. Simple splits are easier to inspect, especially for people unfamiliar with your method of making connections. It should be easy to tell that both of your backups are connected to both mains and to see that each connector is going through the proper loop. Splits covered in sleeves or excessive tape can be difficult or impossible to inspect, and have a high potential for uncaught human error. For example, if you have taped a quicklink shut, it is no longer easy to tell if it has been wrenched closed without undoing the tape (if it is still easy to tell, the tape is not doing anything).
+
+!["The W" split connection method opened up - top view](notes/images/theWopenedTop.jpg)
+<p align="center"> <em>"The W" split system with two soft shackles, opened to show its structure. The doubled soft shackle goes through both main loops, and the long backup shackle goes through all four loops. It is easy to inspect when laid out like this, although in practice it is normally taped up so this view cannot be seen. When making the W, it is best to construct it like this with both backups upside down, and then fold the backups towards the main to make the right-side up. This gives the backup shackle its "W" shape and keeps your webbing flat.</em> </p>
   
 
 ---
