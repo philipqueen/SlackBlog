@@ -6,9 +6,14 @@ tags:
 - split-connections
 - soft-shackles
 - grog-splices
+- quicklinks
 ---
 
 # Factors Influencing Choice of Split Connections
+
+There are many ways of making split connections on highlines, with no single method clearly considered "best" by the community. This post aims to give a general rubric for evaluating the safety and suitability of split connections for your rig, and provides a framework for inspecting new methods as they are theorized. Safety related factors are given first, and receive the bulk of the discussion, followed by a short section on convenience factors. Choosing the proper split design is an important way to maximize the safety benefits of connected highlines while minimizing the risk of additional failure points.
+
+Also included in the post are top and side views of most of the popular split setups for reference. 
 
 !["Through-all-four" connection with two grogs, shown in the field](notes/images/grogsplit1.jpeg)
 
@@ -37,9 +42,9 @@ Split highlines offer major safety advantages over traditional single strand hig
 
 When presented with a new split system, it can be hard to go through every possible failure mode. A typical test is to pull (with your hands) on both mainlines, then both backups, then each separate combination of main and backup, and make sure each can correctly oppose force and loads the connectors well. 
 
-The pull test ensures redundancy of your webbing, but it's also important to test the redundancy in your connection. When doing the pull test, pay attention to which connectors are loaded in which situation, and how they are loaded. It's a good idea to remove one of your connectors and see what happens when you repeat the pull test. Once you're satisfied that connector is redundant, put the split back together and remove the other connector. 
+The pull test ensures redundancy of your webbing, but it's also important to test the redundancy in your connection. When doing the pull test, pay attention to which connectors are loaded in which situation, and how they are loaded. It's a good idea to remove one of your connectors and see what happens when you repeat the pull test. Once you're satisfied that that connector is redundant, put the split back together and remove the other connector. 
 
-This may seem like a lot to test, but redundancy has prevented countless highline accidents from becoming serious or fatal. Remember that the key to redundancy is that any one part of the system can fail without the whole system failing. What does it mean for the system to fail? It may mean different things depending on the situation, like on a low midline, where the whole system may be intact, but the system failed if a backup fall led to the slackliner hitting the deck. 
+This may seem like a lot to test, but redundancy has prevented countless highline accidents from becoming serious or fatal. Remember that the key to redundancy is that any one part of the system can fail without the whole system failing. What does it mean for the system to fail? It may mean different things depending on the situation, like on a low midline, where the backup may be intact, but the system failed if a backup fall led to the slackliner hitting the deck. 
 
 ### Prevention of Cascading Failure
 
@@ -48,7 +53,7 @@ Any split connection should prevent cascading failures as much as possible. A **
 ![Double soft shackle Inov Split - side view](notes/images/ssInovSide.jpg) ![Double soft shackle Inov Split - top view](notes/images/ssInovTop.jpg)   
 <p align="center"> <em>The "Inov Split" split system with two soft shackles. The knots of the soft shackles are tucked inside the sewn loops. In the classic Inov Split, the center soft shackle connecting the two backups is replaced by a quicklink. If the "S" shaped soft shackle were to fail, both mains would be out of the system leading to a double backup fall.</em> </p>
 
-An example of a split connection with cascading failures is the the classic Inov Split, where a soft shackle connects both mainlines in a figure eight pattern, and a quicklink connects both backups to the crossing strands of the soft shackle. The system is fully redundant, because no single piece failing leads to failure of the whole system. However, because the backup loops are not connected directly to the opposing side main loops, the system is set up for a cascading failure in the case of soft shackle failure. If the soft shackle fails, the line drops onto two backup segments, which is equivalent to both main segments failing. The failure of the soft shackle cascades through to the segments it was connecting, resulting in a large fall.
+An example of a split connection with cascading failures is the the classic Inov Split, where a soft shackle connects both mainlines in a figure eight pattern, and a quicklink or soft shackle connects both backups to the crossing strands of the main soft shackle. The system is fully redundant, because no single piece failing leads to failure of the whole system. However, because the backup loops are not connected directly to the opposing side main loops, the system is set up for a cascading failure in the case of main soft shackle failure. If the main soft shackle fails, the line drops onto two backup segments, which is equivalent to both main segments failing. The failure of the main soft shackle cascades through to the segments it was connecting, resulting in a large fall.
 
 ![2 through 4 with two soft shackles - side view](notes/images/2through4side.jpg)                                                                                                                                                                                                   ![2 through 4 with two soft shackles - sidetop view](notes/images/2through4top.jpg)                                                                                                                                                                                                 
 <p align="center">
@@ -70,13 +75,13 @@ Soft shackles are often seen as a less secure option for connections compared to
 !["Through-all-four" system with two grog splices - side view](notes/images/2grogsSide.jpg)                                  !["Through-all-four" system with two grog splices - top view](notes/images/2grogsTop.jpg)                                    
 <p align="center"> <em>Grog splices used in a "through all 4" split system instead of soft shackles. Note the significantly reduced side profile. </em></p>
 
-[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice, although more real world use is needed to confirm this. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost more time connecting and disconnecting. 
+[Grog splices](notes/GrogSplices.md) appear to offer the best in security, as they are connected with a brummel splice, although more real world use is needed to confirm this. As they become more commonly used, we will know better if this reasoning is correct. Lock stitching the tail buries can make them almost perfectly secure, at the cost of more time connecting and disconnecting. 
   
 ### Minimization of Movement
 
 Movement in a split connection can't be fully avoided due to the dynamic nature of highlines, and it has been responsible for a numbers of failures on split highlines. Regular movement of the highline can cause a back and forth sawing motion that allows twisted backups, especially those made up of round dyneema backup extenders, to abrade into the mainline. High wind has caused multiple types of split failures, including shaking open quicklinks and causing a soft shackle to be cut by the webbing in a DLV (Dura-La-Vida) connection. During a backup fall, the rapid shift of tension has potential to create a significant amount of heat if there is movement within the split, as there is in many connection styles. We can't fully avoid movement in our highlines: in the case of wind and backup falls, we try our best to avoid them but can't guarantee that we will, and regular movement of the highline is a core part of why we highline. The best we can do is mitigate its effects by choosing good split setups.
 
-Split setups should be chosen to avoid the potential for movement related failure modes like cutting, abrasion, and heat (vibration is another failure mode that is mostly an issue for quicklinks). The first step is to decrease the potential for explosive shifts during backup falls, as the fast shifts create potential for cutting and abrasion and can generate significant heat. Ideally, there is no difference in how the connectors are loaded during a backup fall. The Y2K system is a good example of very limited movement because as long as the backup connector is small enough, the two backup loops do not have the ability to move in the connection. The classic Inov Split has too much movement: because the backup connector is attached to a sliding x on a soft shackle, whichever mainline breaks is going to cause a shift in both the main soft shackle and the backup connector. 
+Split setups should be chosen to avoid the potential for movement related failure modes like cutting, abrasion, and heat (vibration is another failure mode that is mostly an issue for quicklinks). The first step is to decrease the potential for explosive shifts during backup falls, as the fast shifts create potential for cutting and abrasion and can generate significant heat. Ideally, there is no difference in how the connectors are loaded during normal use vs during a backup fall. The Y2K system is a good example of very limited movement because as long as the backup connector is small enough, the two backup loops do not have the ability to move in the connection. The classic Inov Split has too much movement: because the backup connector is attached to a sliding x on a soft shackle, whichever mainline breaks is going to cause a shift in both the main soft shackle and the backup connector. 
 
 !["Dura La Vida" split connection with quicklinks - side view](notes/images/DuraLaVidaSide.jpg)                                  
 <p align="center"> <em>"Dura La Vida" connection with two quicklinks. Note the gap in the sewing on the right that allows significant back and forth motion. </em></p>
@@ -115,4 +120,22 @@ The ideal split has the exact linear density, or weight per meter, of your main 
 
 ### Ease of Setup/Takedown
 
-If you are connecting and disconnecting different webbings on site, it is beneficial to have connections that are fast and easy to make and take apart. Even if you've connected your webbing beforehand, you may end up changing them on site if you made a mistake like swapping the main and backup on a segment. Soft shackles are the easiest connector to do and undo, because they do not need a special tool to use. Both quicklinks and grog splices need special tools to make a connection (a wrench and a fid, respectively), and quicklinks will also need a tool to undo. While they are still relatively quick to connect (see [splicing grogs on site](notes/SplicingGrogsOnSite.md)), they won't be if you're trying to makeshift a tool at the anchor. In addition to your connectors, it is important you are familiar with your split style and have practice making it. Trying to remember which connector goes where while stressed at the anchor is not ideal for a few reasons, speed only being one of them.
+If you are connecting and disconnecting different webbings on site, it is beneficial to have connections that are fast and easy to make and take apart. Even if you've connected your webbing beforehand, you may end up changing them on site if you made a mistake like swapping the main and backup on a segment. Soft shackles are the easiest connector to do and undo, because they do not need a special tool to use. Both quicklinks and grog splices need special tools to make a connection (a wrench and a fid, respectively), and quicklinks will also need a tool to undo. While grogs are still relatively quick to connect (see [splicing grogs on site](notes/SplicingGrogsOnSite.md)), they won't be if you're trying to makeshift a tool at the anchor. In addition to your connectors, it is important you are familiar with your split style and have practice making it. Trying to remember which connector goes where while stressed at the anchor is not ideal for a few reasons, speed only being one of them.
+
+
+---
+
+## Conclusion
+
+When evaluating a method of connecting split highlines, ensure your chosen method is:
+
+- Strong 
+- Redundant
+- Prevents cascading failures
+- Secure
+- Minimizes movement
+- Easily inspectable
+
+Once all these criteria are met, convenience factors like bulk, weight, and ease of setup and takedown can differentiate between competing options. 
+
+Split connections have significant safety advantages over continuous highlines across a range of different scenarios, but also add risk of high-consequence failures. Carefully constructing and inspecting whichever split you choose is vital for having a safe rig.
