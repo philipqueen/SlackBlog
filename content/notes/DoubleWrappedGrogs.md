@@ -10,7 +10,7 @@ tags:
 
 # Double Wrapped Grog Splices
 
-![[ClaytonGrog2.jpg]]
+![Clayton's 5mm Double Wrap Grogs](notes/images/ClaytonGrog2.jpg)
 <p align="center"> <em>A double wrapped 5mm grog made and photographed by Clayton Underwood. Double wrapped grogs are a very strong connector. The pictured connector is as strong as, smaller than, and half the weight of a 5mm soft shackle connection. Note: the tail bury on the right side of the picture should start closer to the brummel splice.</em> </p>
 
 Double wrapping grogs was the first major change to using the infinite loops in highline splits. As far as I know, Jerry Miszewski was the first to rig a line on double wrapped 5mm grogs. It was a natural development, as the highliners interested in light and small connections were already double wrapping 4mm soft shackles to reduce the size of the button knots. It also allowed for a smaller gap between sewn loops, since the grogs have a minimum length that was not short enough for some people's taste. The doubled grogs were good enough that almost every split line at GGBY 2022 were rigged on double wrapped 5mm grogs in a "2 through 4" style system. 
@@ -27,7 +27,7 @@ Some people value a very short connection, and try to get their sewn loops as cl
 3. *Ability to use smaller diameter dyneema*
 Because double wrapping doubles the strength of the grog, it makes double wrapped 4mm grogs a viable alternative to 5mm grogs (see breaktesting below). This reduces weight and counteracts the additional bulk of the double wrap.
 
-![[ClaytonGrog1.jpg]]
+![Clayton's 5mm Double Wrap Grogs](notes/images/ClaytonGrog1.jpg)
 <p align="center"> <em>Another view of Clayton's double wrapped 5mm grogs under tension. </em> </p>
 
 ### Downsides of double wrapping
@@ -40,7 +40,7 @@ The same thing that makes double wrapped grogs stronger and brings the loops clo
 3. *Increased linear density*
 Double wrapping grogs does not increase the total weight of your split compared to single wrapping them. But it does increase the density of your split by halving the distance that its weight is spread over. This can make the line harder to walk, as there is a more pronounced weight difference compared to the rest of the line. However, the weight density is still less than a soft shackle, and the total weight of doubled wrapped 4mm grogs is lighter than any other connector.
 
-![[ClaytonGrog3.jpg]]
+![Clayton's 5mm Double Wrap Grogs](notes/images/ClaytonGrog3.jpg)
 <p align="center"> <em>Another view of Clayton's 5mm double wrapped grogs under tension, showing how small the connection size is.</em> </p>
 
 ## Tips on making double wrapped grogs
@@ -61,7 +61,7 @@ Also, be sure to add [webbing thimbles](https://aki-slacklines.de/en/blog/break-
 Disclaimer: the breaktests were performed at the Balance Community workshop using their breaktest machine, and with the assistance of Balance Community founder Jerry Miszewski. 
 See the full breaktests at [the complete breaktest page](notes/GrogSpliceFullBreakTest) (some additional testing data is also included there). All tests were performed on Amsteel Blue unless otherwise stated, and with 4" buries unless otherwise stated.
 
-![[GGBYgrog.jpg]]
+![Double wrapped 5mm grog from GGBY](notes/images/GGBYgrog.jpg)
 <p align="center"> <em>A 5mm double wrapped grog connection that was rigged at GGBY, Showing the sewn loops touching each other in the split.</em> </p>
 
 ### 4mm Grogs
@@ -107,7 +107,7 @@ One concern when I published my original post on blog was that the strength of a
 ## Conclusion
 While grogs were already the smallest and lightest connection, double wrapping them can lead to an even smaller and lighter connection. Double wrapped 4mm grogs are extremely light, and take up very little space. I have not had a chance to walk on them yet, but given how good double wrapped 5mm grogs feel, I'm sure they making walking past splits even nicer. And at over 40 kN strong, they are stronger than most webbings.
 
-![[3mmgrog.jpg]]
+![3mm grog made from D12 99 MAX](notes/images/3mmgrog.jpg)
 <p align="center"> <em>A 3(!)mm double wrapped grog on a single sewn loop to sewn loop connection, with soft thimbles. Made of  D12 MAX 99 by Marlow ropes, it breaks at about 38 kN and weighs 1/3 of an Amsteel Blue 4mm grog.</em> </p>
 
 ### Grog Links
