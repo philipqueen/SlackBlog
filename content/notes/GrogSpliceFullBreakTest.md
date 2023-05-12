@@ -38,6 +38,51 @@ The final four entries with a single asterisk were all used. The extent of use i
 
 The 5" grog with asterisks on the side got caught in the threads of the shackle pin and tore open. After that point we switched from attaching grogs at the pin to attaching them at the bow. 
 
+## Additional Testing
+This section covers tests done since the main tests listed above. The tests were done with Jerry Miszewski, owner of Balance Community Slacklines, in the Balance Community shop. All tests were made on Amsteel Blue unless otherwise stated. All tests have 4" bury lengths unless otherwise stated.
+
+### 4mm Grogs
+Single wrapped grogs made with 4mm dyneema.
+| Sample Number | Breaking Strength (kN) |
+|:-------------:|:----------------------:|
+|       1       |          23.0          |
+|       2       |          24.1          |
+|       3       |          20.3          |
+|       4       |          24.4          |
+
+### Double Wrapped Grogs
+Double wrapped grogs made with 4mm dyneema.
+| Sample Number | Breaking Strength (kN) |
+|:-------------:|:----------------------:|
+|       1       |         43.8          |
+|       2       |         46.5          |
+|       3        |           46.0             |
+
+Double wrapped grogs made with 5mm dyneema.
+| Sample Number | Breaking Strength (kN) |
+|:-------------:|:----------------------:|
+|       1       |          54.6          |
+|       2       |          54.2          |
+|       3       |          60.2          |
+|       4       |          58.8          |
+
+### "In The Hole" Grogs
+Grogs with both tails spliced into the hole created on their respective side of the brummel.
+| Sample Number | Breaking Strength (kN) |
+|:-------------:|:----------------------:|
+|       1       |         31.8          |
+|       2       |         28.6          |
+|       3        |           27.8             |
+
+### Endura Grogs
+Grogs made from New England Ropes Endura 12 instead of Amsteel Blue.
+| Sample Number | Breaking Strength (kN) |
+|:-------------:|:----------------------:|
+|       1       |         39.1          |
+|       2       |         28.6          |
+|       3        |           39.3             |
+
+
 ## Preliminary Tests
 Before the main tests above, three different preliminary tests were done. These are discussed below. These tests are all characterized by low sample numbers and a lack of controls.
 
@@ -74,3 +119,4 @@ Jake Monaghan heard about using grogs and wanted to test, but only had access to
 I will be trying to keep this page up to date with feedback and new information, and will keep track of edits as I make them here.
 1. Specified "Amsteel Blue" as the dyneema typed used in breaktests, and the source of the different dyneema used (7/18/22).
 2. Specified which tests in the main table were used grogs (7/18/22). 
+3. Added the "Additional Testing" section to reflect tests made in spring of 2023 (5/11/23)
