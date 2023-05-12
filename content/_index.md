@@ -14,4 +14,5 @@ Welcome to Philip's Slackblog. Designed to share my strong opinions about slackl
 5. [Farmer Boy Full Break Tests](notes/FarmerBoyFullBreakTest.md)
 6. [Double Braid Polyester Pull Rope in Knots and Devices](notes/PullRopeKnotsDevices.md)
 7. [Double Braid Pull Rope Full Break Tests](notes/PullRopeFullBreakTest.md)
-8.  [Factors Influencing the Choice of Split Connections](notes/ChoiceOfSplitConnections.md)
+8. [Factors Influencing the Choice of Split Connections](notes/ChoiceOfSplitConnections.md)
+9. [Double Wrapped Grog Splices](notes/DoubleWrappedGrogs)
