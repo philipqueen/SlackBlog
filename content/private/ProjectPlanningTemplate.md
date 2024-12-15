@@ -178,7 +178,7 @@ Approximately how many people will be needed to haul the webbing in:
 
 ## Rescue Plan:
 
-
+What rescue method(s) will be used for this project?
 ### Rescue Kits
 
 What will be in the rescue kit(s)?

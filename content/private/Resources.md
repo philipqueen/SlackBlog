@@ -1,0 +1,1 @@
+Why does doubling a rope double its strength: https://overtheedgerescue.com/canyoning/sling-strength-vs-single-strand/

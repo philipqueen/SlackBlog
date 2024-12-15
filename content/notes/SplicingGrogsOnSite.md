@@ -6,6 +6,7 @@ tags:
 - split-connections
 - video
 ---
+# Splicing Grogs on Site
 
 In my [original post about grog splices](notes/GrogSplices), I said it took about 10 minutes to splice a full connection in the field. I got a lot of feedback that splicing in the field was either:
 - Too complicated
