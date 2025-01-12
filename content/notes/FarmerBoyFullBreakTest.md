@@ -18,64 +18,64 @@ The cord in this test was about 2 years old and heavily used. Offcuts with notab
 For full discussion of Farmer Boy, see [the main post](notes/FarmerBoyKnotsDevices.md).
  
 
-| Break Type | Sample Number | Breaking Strength (kN) | Comments |
-| :-: | :-: | :-: | :-: |
-| 8 to 8 | 1 | 2.21 | Broke in middle |
-| 8 to 8 | 2 | 2.44 | Broke in middle |
-| 8 to 8 | 3 | 2.20 | Broke in middle |
-| Alpine Butterfly Bend | 1 | 2.10 | Broke at knot |
-| Alpine Butterfly Bend | 2 | 2.18 | Broke at knot |
-| Alpine Butterfly Bend | 3 | 2.4 | Broke at knot |
-| Double Sheet Bend (Yosemite Finish) | 1 | 2.22 | Broke at knot |
-| Double Sheet Bend (Yosemite Finish) | 2 | 1.98 | Broke at knot |
-| Double Sheet Bend (Yosemite Finish) | 3 | 2.14 | Broke at knot |
-| Releasable Double Sheet Bend | 1 | 2.15 | Broke at knot |
-| Zeppelin Bend | 1 | 2.19 | Broke at knot |
-| Zeppelin Bend | 2 | 2.02 | Broke at knot |
-| Zeppelin Bend | 3 | 2.11 | Broke at knot |
-| Micro Trax | 1 | 1.76 |  |
-| Micro Trax | 2 | 1.54 |  |
-| Micro Trax | 3 | 1.51 |  |
-| Doubled Micro Trax | 1 | 2.28 |  |
-| Doubled Micro Trax | 2 | 2.38 |  |
-| Doubled Micro Trax | 3 | 2.15 |  |
-| Mini Trax | 1 | 1.76 |  |
-| Mini Trax | 2 | 1.54 |  |
-| Mini Trax | 3 | 1.51 |  |
-| Doubled Mini Trax | 1 | 2.16 |  |
-| Doubled Mini Trax | 2 | 2.24 |  |
-| Doubled Mini Trax | 3 | 2.01 |  |
-| Roll N Lock | 1 | 1.94 |  |
-| Roll N Lock | 2 | 1.91 |  |
-| Roll N Lock | 3 | 2.13 |  |
-| Doubled Roll N Lock | 1 | 1.93 | Broke notably lower than single wrapped |
-| Doubled Roll N Lock | 2 | 1.79 | Broke notably lower than single wrapped |
-| Doubled Roll N Lock | 3 | 1.82 | Broke notably lower than single wrapped |
-| Handled Ascender | 1 | 1.06 |  |
-| Handled Ascender | 2 | 1.13 |  |
-| Handled Ascender | 3 | 1.24 |  |
-| Chained Handled Ascenders | 1 | 1.66 | 2 in line connected by carabiner |
-| Chained Handled Ascenders | 2 | 1.69 | 2 in line connected by carabiner |
-| Chained Handled Ascenders | 3 | 1.79 | 2 in line connected by carabiner |
-| Tibloc | 1 | 0.99 | Slips, tearing outside | 
-| Tibloc | 2 | 1.79* | Slips, tearing outside - this test likely loaded the backup rope, leading to artificially high result| 
-| Tibloc | 3 | 1.00 | Slips, tearing outside | 
-| Capstan to Capstan | 1 | 4.39 |  |
-| Capstan to Capstan | 2 | 4.04 |  |
-| Capstan to Capstan | 3 | 4.22 |  |
-| Duck | 1 | 2.44 |  |
-| Duck | 2 | 2.46 |  |
-| Duck | 3 | 2.57 |  |
-| Ropeman 1 | 1 | 2.11 | Minor Slippage |
-| Ropeman 1 | 2 | 1.78 | Slipped around 1.6 |
-| Ropeman 1 | 3 | 1.96 |  |
-| Spoc | 1 | 2.41 |  |
-| Spoc | 2 | 2.39 | Desheathed then broke |
-| Spoc | 3 | 2.33 |  |
-| Nite Ize CamJam XT | 1 | 2.87 |  |
-| Nite Ize CamJam XT | 2 | 2.74 | Slipped before breaking | 
-| Nite Ize CamJam XT | 3 | 2.80 | Broke at 8 knot | 
-| 4 Wrap Prusik | 3 | 1.26 | Made of Farmer Boy, Slips | 
+|             Break Type              | Sample Number | Breaking Strength (kN) |                                               Comments                                                |     |
+| :---------------------------------: | :-----------: | :--------------------: | :---------------------------------------------------------------------------------------------------: | --- |
+|               8 to 8                |       1       |          2.21          |                                            Broke in middle                                            |     |
+|               8 to 8                |       2       |          2.44          |                                            Broke in middle                                            |     |
+|               8 to 8                |       3       |          2.20          |                                            Broke in middle                                            |     |
+|        Alpine Butterfly Bend        |       1       |          2.10          |                                             Broke at knot                                             |     |
+|        Alpine Butterfly Bend        |       2       |          2.18          |                                             Broke at knot                                             |     |
+|        Alpine Butterfly Bend        |       3       |          2.4           |                                             Broke at knot                                             |     |
+| Double Sheet Bend (Yosemite Finish) |       1       |          2.22          |                                             Broke at knot                                             |     |
+| Double Sheet Bend (Yosemite Finish) |       2       |          1.98          |                                             Broke at knot                                             |     |
+| Double Sheet Bend (Yosemite Finish) |       3       |          2.14          |                                             Broke at knot                                             |     |
+|    Releasable Double Sheet Bend     |       1       |          2.15          |                                             Broke at knot                                             |     |
+|            Zeppelin Bend            |       1       |          2.19          |                                             Broke at knot                                             |     |
+|            Zeppelin Bend            |       2       |          2.02          |                                             Broke at knot                                             |     |
+|            Zeppelin Bend            |       3       |          2.11          |                                             Broke at knot                                             |     |
+|             Micro Trax              |       1       |          1.76          |                                                                                                       |     |
+|             Micro Trax              |       2       |          1.54          |                                                                                                       |     |
+|             Micro Trax              |       3       |          1.51          |                                                                                                       |     |
+|         Doubled Micro Trax          |       1       |          2.28          |                                                                                                       |     |
+|         Doubled Micro Trax          |       2       |          2.38          |                                                                                                       |     |
+|         Doubled Micro Trax          |       3       |          2.15          |                                                                                                       |     |
+|              Mini Trax              |       1       |          1.76          |                                                                                                       |     |
+|              Mini Trax              |       2       |          1.54          |                                                                                                       |     |
+|              Mini Trax              |       3       |          1.51          |                                                                                                       |     |
+|          Doubled Mini Trax          |       1       |          2.16          |                                                                                                       |     |
+|          Doubled Mini Trax          |       2       |          2.24          |                                                                                                       |     |
+|          Doubled Mini Trax          |       3       |          2.01          |                                                                                                       |     |
+|             Roll N Lock             |       1       |          1.94          |                                                                                                       |     |
+|             Roll N Lock             |       2       |          1.91          |                                                                                                       |     |
+|             Roll N Lock             |       3       |          2.13          |                                                                                                       |     |
+|         Doubled Roll N Lock         |       1       |          1.93          |                                Broke notably lower than single wrapped                                |     |
+|         Doubled Roll N Lock         |       2       |          1.79          |                                Broke notably lower than single wrapped                                |     |
+|         Doubled Roll N Lock         |       3       |          1.82          |                                Broke notably lower than single wrapped                                |     |
+|          Handled Ascender           |       1       |          1.06          |                                                                                                       |     |
+|          Handled Ascender           |       2       |          1.13          |                                                                                                       |     |
+|          Handled Ascender           |       3       |          1.24          |                                                                                                       |     |
+|      Chained Handled Ascenders      |       1       |          1.66          |                                   2 in line connected by carabiner                                    |     |
+|      Chained Handled Ascenders      |       2       |          1.69          |                                   2 in line connected by carabiner                                    |     |
+|      Chained Handled Ascenders      |       3       |          1.79          |                                   2 in line connected by carabiner                                    |     |
+|               Tibloc                |       1       |          0.99          |                                        Slips, tearing outside                                         |     |
+|               Tibloc                |       2       |         1.79*          | Slips, tearing outside - this test likely loaded the backup rope, leading to artificially high result |     |
+|               Tibloc                |       3       |          1.00          |                                        Slips, tearing outside                                         |     |
+|         Capstan to Capstan          |       1       |          4.39          |                                                                                                       |     |
+|         Capstan to Capstan          |       2       |          4.04          |                                                                                                       |     |
+|         Capstan to Capstan          |       3       |          4.22          |                                                                                                       |     |
+|                Duck                 |       1       |          2.44          |                                                                                                       |     |
+|                Duck                 |       2       |          2.46          |                                                                                                       |     |
+|                Duck                 |       3       |          2.57          |                                                                                                       |     |
+|              Ropeman 1              |       1       |          2.11          |                                            Minor Slippage                                             |     |
+|              Ropeman 1              |       2       |          1.78          |                                          Slipped around 1.6                                           |     |
+|              Ropeman 1              |       3       |          1.96          |                                                                                                       |     |
+|                Spoc                 |       1       |          2.41          |                                                                                                       |     |
+|                Spoc                 |       2       |          2.39          |                                         Desheathed then broke                                         |     |
+|                Spoc                 |       3       |          2.33          |                                                                                                       |     |
+|         Nite Ize CamJam XT          |       1       |          2.87          |                                                                                                       |     |
+|         Nite Ize CamJam XT          |       2       |          2.74          |                                        Slipped before breaking                                        |     |
+|         Nite Ize CamJam XT          |       3       |          2.80          |                                            Broke at 8 knot                                            |     |
+|            4 Wrap Prusik            |       3       |          1.26          |                                       Made of Farmer Boy, Slips                                       |     |
 
 
 

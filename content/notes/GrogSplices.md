@@ -91,9 +91,9 @@ This gives us a three sigma MBS of 24.5 kN. For those who don't know, the three 
 
 It is important to note the mean across the 15 samples is quite higher than the three sigma MBS at 31.0 kN. The reason the MBS is so low is because of the high variance in the data. The weakest grog in the sample set was 27.3 kN, the strongest was 35.9 kN (both had 4" buries). This relatively large difference between weakest and strongest means a large standard deviation, and thus a more conservative three sigma MBS in relation to the mean. 
 
-| Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN)
-| :-: | :-: | :-: | :-: |
-| 4 - 6 | 24.5 | 31.0 | 27.3 | 
+| Bury Size (in) | Three Sigma MBS (kN) | Mean Breaking Strength (kN) | Minimum Tested Value (kN) |     |
+| :------------: | :------------------: | :-------------------------: | :-----------------------: | --- |
+|     4 - 6      |         24.5         |            31.0             |           27.3            |     |
 
 ### Are Longer Buries Better?
 I advocate that **4 inches if the minimum bury length for a 5mm grog splice.** But is going longer better? As mentioned above, 4" grogs had the weakest test of all the 4", 5", and 6" buries we tested at 27.3 kN. But they also had the strongest at 35.9 kN. We tested 6 4" grogs, 2 5" grogs (if you exclude the one that got caught in the shackle pin), and 3 6" grogs. Due to the very high value of 35.9 kN, I believe the higher variance in 4" grogs is simply an artifact of testing twice as many. More testing would be needed to confirm or deny that, though. 
