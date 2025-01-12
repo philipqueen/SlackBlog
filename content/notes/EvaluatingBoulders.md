@@ -107,4 +107,6 @@ Using constants of 0.5 for friction, 0.2 for porosity, 2600 kg/m^3 for wet bulk 
 
 ## Conclusion
 
+If we return to the Red Rocks incident above, we can estimate the strength of the boulder to be 25.6 kN. This is very low for an anchor, especially given the uncertainty in our calculator, but we also know the line didn't hit 25 kN in a whip. This shows that some factor was present in the real world that's missing in our model. Tipping forces are likely a big part of it, but there's also a number of factors that could have been different from the model. This shows the importance of building large safety factors into your calculations.
+
 This calculation method isn't fool proof, and shouldn't be entirely relied upon. There are important variables and context missing, and the variables we do cover need to be estimated in the field. The point of this is not to say whether one specific boulder is good or not by calculating the force required to move it. The point is to inform your decision making, in particular to help you understand the factors that influence the strength of a boulder and the effect size of your uncertainty. Always be conservative with your anchor choices and add extra backups if you have any doubt. 
